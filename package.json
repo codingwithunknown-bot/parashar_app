@@ -1,0 +1,23 @@
+{
+  "name": "kundali-node-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "apple-signin-auth": "^2.1.0",
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^4.18.2",
+    "firebase-admin": "^14.2.0",
+    "google-auth-library": "^10.9.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.7.2",
+    "nodemailer": "^9.0.3",
+    "puppeteer": "^25.5.0",
+    "socket.io": "^4.8.1"
+  }
+}
