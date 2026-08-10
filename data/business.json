@@ -1,0 +1,1038 @@
+{
+    "nakshatras": [
+        {
+            "id": 1,
+            "name": "Ashwini , अश्विनी",
+            "male_businesses": {
+                "English": [
+                    "Vehicles and transport",
+                    "Medical practice / Physician services",
+                    "Service and support-based roles",
+                    "Acting and modelling",
+                    "Consulting and commission-based work",
+                    "Travel organization and tourism",
+                    "Jewellery and fashion retail",
+                    "Agriculture"
+                ],
+                "हिंदी": [
+                    "वाहन और परिवहन",
+                    "चिकित्सा अथवा चिकित्सक सेवाएं",
+                    "सेवा और समर्थन आधारित कार्य",
+                    "अभिनय और मॉडलिंग",
+                    "परामर्श और कमीशन आधारित कार्य",
+                    "यात्रा आयोजन और पर्यटन",
+                    "आभूषण और फैशन खुदरा व्यापार",
+                    "कृषि कार्य"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Education and teaching",
+                    "Music and performing arts"
+                ],
+                "हिंदी": [
+                    "शिक्षा और अध्यापन",
+                    "गीत-संगीत और कला"
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Bharani , भरणी",
+            "male_businesses": {
+                "English": [
+                    "Medical blood-testing and diagnostics",
+                    "Meat trade",
+                    "Occult, forensic, and pathology / post-mortem related services",
+                    "Weapons and defense trade",
+                    "Legal disputes, courtroom practice, and advocacy"
+                ],
+                "हिंदी": [
+                    "रक्त-परीक्षण और डायग्नोस्टिक्स",
+                    "मांस व्यवसाय",
+                    "तांत्रिक, फोरेंसिक या शव-परीक्षण से जुड़े कार्य",
+                    "हथियार और रक्षा व्यापार",
+                    "कानूनी विवाद, अदालती मामले और वकालत"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "General business and commerce",
+                    "Telecommunications",
+                    "Modelling and fashion",
+                    "Office management",
+                    "Tourism and hospitality",
+                    "Front desk operations, reception, guidance, and sales",
+                    "Sports, entertainment, and arts",
+                    "Import and export of clothing and accessories"
+                ],
+                "हिंदी": [
+                    "व्यापार और वाणिज्य",
+                    "दूरसंचार",
+                    "मॉडलिंग और फैशन",
+                    "कार्यालय प्रबंधन",
+                    "पर्यटन और होटल व्यवसाय",
+                    "स्वागतकर्ता (रिसेप्शनिस्ट), गाइड या विक्रय अधिकारी",
+                    "खेलकूद, मनोरंजन और कला",
+                    "वस्त्र और आभूषण का आयात-निर्यात"
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Krittika , कृतिका",
+            "male_businesses": {
+                "English": [
+                    "Goldsmithing and jewelry crafting",
+                    "Blacksmithing and metalwork",
+                    "Dhaba, restaurant, and tandoor cooking",
+                    "Dyeing and textile coloration",
+                    "Glasswork",
+                    "Handling flammable substances, gas, and chemicals/acids",
+                    "Yajna organization and ritual services",
+                    "Fuel trade and energy supply",
+                    "Specialist consulting",
+                    "Treasury, vault, and security management",
+                    "Barber and beauty salon operations",
+                    "Linguistics, translation, and grammar services",
+                    "Pottery and ceramics",
+                    "Priesthood and astrological consulting",
+                    "Mining and excavation",
+                    "Kitchen management and catering"
+                ],
+                "हिंदी": [
+                    "सुनार और आभूषण निर्माण",
+                    "लुहार और धातु का काम",
+                    "ढाबा, रेस्तराँ और तंदूर संचालन",
+                    "रंगाई और वस्त्र सज्जा",
+                    "कांच का काम",
+                    "ज्वलनशील पदार्थ, गैस और तेजाब से जुड़े कार्य",
+                    "यज्ञ आयोजन और कर्मकांड",
+                    "ईंधन का व्यापार",
+                    "विशेषज्ञ सलाहकार",
+                    "खजाना, लॉकर और तिजोरी प्रबंधन",
+                    "नाई या ब्यूटी सैलून",
+                    "भाषाशास्त्र और व्याकरण सेवाएं",
+                    "कुम्हार और मिट्टी के बर्तन",
+                    "पुरोहित या ज्योतिषीय परामर्श",
+                    "खनन और खुदाई",
+                    "रसोई प्रबंधन और कैटरिंग"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Law and legal services",
+                    "Medicine and healthcare practice",
+                    "Engineering",
+                    "Teaching and education",
+                    "Beauty parlour operations",
+                    "Music and the arts",
+                    "Tailoring and garment manufacturing",
+                    "Leather industry",
+                    "Architecture and interior planning",
+                    "Agriculture and fish-farming"
+                ],
+                "हिंदी": [
+                    "वकालत और कानूनी सेवाएं",
+                    "चिकित्सा और स्वास्थ्य सेवा",
+                    "इंजीनियरिंग",
+                    "अध्यापन और शिक्षा",
+                    "ब्यूटी पार्लर संचालन",
+                    "संगीत और कला",
+                    "टेलरिंग और वस्त्र निर्माण",
+                    "चमड़ा उद्योग",
+                    "वास्तुकारी और आंतरिक सज्जा",
+                    "कृषि और मत्स्य-पालन"
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "Rohini , रोहिणी",
+            "male_businesses": {
+                "English": [
+                    "General business and commercial trade",
+                    "Yogic practice instruction and wellness coaching",
+                    "Driving, transport, and logistics",
+                    "Agriculture, farming, and agro-business",
+                    "Forestry and hill-region produce",
+                    "Fashion and clothing trade"
+                ],
+                "हिंदी": [
+                    "व्यापार और वाणिज्य",
+                    "योग साधना और कल्याण कोचिंग",
+                    "वाहन चलाना, परिवहन और लॉजिस्टिक्स",
+                    "कृषि और कृषि-व्यवसाय",
+                    "वनीय और पर्वतीय क्षेत्र के उत्पाद",
+                    "फैशन और वस्त्र व्यापार"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Domestic crafts, sewing, embroidery, and home decoration",
+                    "Nursing and healthcare support",
+                    "Communication and secretarial services",
+                    "Dairy trade (milk, ghee, oil)",
+                    "Hotel management and hospitality",
+                    "Garment manufacturing and fashion design"
+                ],
+                "हिंदी": [
+                    "सिलाई-कढ़ाई और घरेलू सजावट शिल्प",
+                    "नर्सिंग और स्वास्थ्य सेवा",
+                    "संचार और सचिवीय सेवाएं",
+                    "दूध-घी-तेल का व्यवसाय",
+                    "होटल प्रबंधन और आतिथ्य सत्कार",
+                    "वस्त्र निर्माण और डिजाइनिंग"
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "Mrigashira , मृगशिरा",
+            "male_businesses": {
+                "English": [
+                    "Perfume, fragrance, and essential oil manufacturing",
+                    "Textiles and fabric trade",
+                    "Pearls, coral, gems, and precious stones trade",
+                    "Fruits and agricultural produce trade",
+                    "Forest produce and herbal trade",
+                    "Music production, singing, and media critique",
+                    "Long-distance shipping and travel agency",
+                    "Architecture and structural construction"
+                ],
+                "हिंदी": [
+                    "परफ्यूम, खुशबू और सुगंधित तेल निर्माण",
+                    "वस्त्र और कपड़ा व्यापार",
+                    "मोती, मूंगा, रत्न और कीमती पत्थरों का व्यापार",
+                    "फल और कृषि उत्पाद व्यापार",
+                    "वन उत्पाद और जड़ी-बूटी व्यापार",
+                    "संगीत उत्पादन, गायन और मीडिया समीक्षा",
+                    "लंबी दूरी की शिपिंग और ट्रैवल एजेंसी",
+                    "वास्तुविद् और भवन निर्माण"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Computer operations and IT services",
+                    "Communication systems maintenance",
+                    "Marketing and sales",
+                    "Transportation and driving",
+                    "Independent entrepreneurship"
+                ],
+                "हिंदी": [
+                    "कम्प्यूटर संचालन और आईटी सेवाएं",
+                    "संचार प्रणाली रख-रखाव",
+                    "मार्केटिंग और सेल्स",
+                    "वाहन-चालन और परिवहन",
+                    "स्वतंत्र उद्यमिता"
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "name": "Ardra , अर्द्रा",
+            "male_businesses": {
+                "English": [
+                    "Negotiation, mediation, and arbitration services",
+                    "Beverage, juice, and liquor trade",
+                    "Dry-cleaning and laundry business"
+                ],
+                "हिंदी": [
+                    "मध्यस्थता, समझौता और बातचीत के कार्य",
+                    "रस पदार्थ, जूस, शराब का व्यापार",
+                    "ड्राई-क्लीनिंग और धोबी व्यवसाय"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Nursing training and healthcare",
+                    "Art, drawing, and design"
+                ],
+                "हिंदी": [
+                    "नर्सिंग प्रशिक्षण और स्वास्थ्य सेवा",
+                    "कला, रेखांकन और डिजाइन"
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "name": "Punarvasu , पुनर्वसु",
+            "male_businesses": {
+                "English": [
+                    "Hairstyling and grooming",
+                    "Architecture",
+                    "Gift crafting and manufacturing",
+                    "Vehicle manufacturing and assembly",
+                    "Food production and processing",
+                    "Craftsmanship, painting, and artisanal design"
+                ],
+                "हिंदी": [
+                    "केशसज्जा और ग्रूमिंग",
+                    "वास्तुकार कार्य",
+                    "उपहार निर्माण और शिल्प",
+                    "वाहन निर्माण",
+                    "खाद्य उत्पादन और प्रसंस्करण",
+                    "दस्तकारी, चित्रकार और कारीगरी डिजाइन"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Music, dance, and performing arts careers"
+                ],
+                "हिंदी": [
+                    "संगीत, नृत्य और प्रदर्शन कला करियर"
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "name": "Pushya , पुष्य",
+            "male_businesses": {
+                "English": [
+                    "Grain production and trade (barley, wheat)",
+                    "Jaggery and sugar manufacturing/trade",
+                    "Forestry-related business",
+                    "Fishing and diving services",
+                    "Spiritual services, rituals, and yajnas",
+                    "Employment agency and matchmaking services"
+                ],
+                "हिंदी": [
+                    "जौ-गेहूं जैसे अनाजों का उत्पादन और व्यापार",
+                    "गुड़ और चीनी का निर्माण व व्यापार",
+                    "वन-व्यवसाय",
+                    "मछुआरा और गोताखोर सेवाएं",
+                    "आध्यात्मिक सेवाएं, कर्मकांड और यज्ञ",
+                    "रोजगार एजेंसी और विवाह प्रबंध सेवाएं"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Handicrafts and artisanal goods",
+                    "Vocational training and education",
+                    "Agriculture and animal husbandry",
+                    "Typing, printing, and publishing",
+                    "Nursing and paramedical services",
+                    "horticulture",
+                    "Veterinary services"
+                ],
+                "हिंदी": [
+                    "हस्तशिल्प और कला वस्तुएं",
+                    "व्यावसायिक प्रशिक्षण और शिक्षा",
+                    "कृषि और पशुपालन",
+                    "टंकण (टाइपिंग), मुद्रण और प्रकाशन",
+                    "नर्सिंग और अर्द्ध-चिकित्सा सेवाएं",
+                    "बागवानी",
+                    "पशु-चिकित्सा सेवाएं"
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "name": "Ashlesha , आश्लेषा",
+            "male_businesses": {
+                "English": [
+                    "Futures trading, stock market speculation, and financial derivatives",
+                    "Metal trade and manufacturing",
+                    "Pharmaceutical manufacturing and chemistry",
+                    "Legal practice and litigation support",
+                    "Matchmaking and marriage bureaus",
+                    "Gemstones and artificial/imitation goods trade",
+                    "Photography and photostat/printing services",
+                    "Herbs and fruit trade",
+                    "Surgery and medical examination",
+                    "Coarse grain trading"
+                ],
+                "हिंदी": [
+                    "वायदा व्यापार, शेयर सट्टा और वित्तीय डेरिवेटिव्स",
+                    "धातु व्यवसाय और निर्माण",
+                    "दवा निर्माण और रसायन विज्ञान",
+                    "मुकद्दमेबाजी और कानूनी सहायता",
+                    "विवाह ब्यूरो और मैचमेकिंग",
+                    "रत्न और कृत्रिम/नकल वस्तुओं का व्यापार",
+                    "फोटोग्राफी और फोटोस्टेट/प्रिंटिंग सेवाएं",
+                    "जड़ी-बूटी और फल व्यवसाय",
+                    "शल्य चिकित्सा और चिकित्सकीय परीक्षण",
+                    "मोटे अनाज का व्यापार"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Office management and administration",
+                    "Communication systems operation",
+                    "Fish-farming and aquaculture",
+                    "Dairy industry",
+                    "Irrigated agriculture"
+                ],
+                "हिंदी": [
+                    "कार्यालय प्रबंधन और प्रशासन",
+                    "संचार व्यवस्था संचालन",
+                    "मछली-पालन और जलीय कृषि",
+                    "डेयरी उद्योग",
+                    "सिंचाई सहित कृषि"
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "name": "Magha , मघा",
+            "male_businesses": {
+                "English": [
+                    "Agriculture, farming, and animal husbandry",
+                    "Music and dance performance",
+                    "Village or community leadership / local governance",
+                    "Land business and real estate development"
+                ],
+                "हिंदी": [
+                    "कृषि, खेती और पशुपालन",
+                    "गायन और नृत्य प्रदर्शन",
+                    "गाँव या बस्ती का नेतृत्व / स्थानीय शासन",
+                    "भूमि व्यापार और रियल एस्टेट विकास"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Medical practice and doctor services",
+                    "Law and legal profession",
+                    "High-level administrative service"
+                ],
+                "हिंदी": [
+                    "चिकित्सा (डॉक्टर) सेवाएं",
+                    "वकालत और कानून पेशा",
+                    "सक्षम प्रशासनिक सेवा"
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "name": "Purva Phalguni , पूर्वाफाल्गुनी",
+            "male_businesses": {
+                "English": [
+                    "Thread and yarn trade",
+                    "Salt, honey, and preserves trade",
+                    "Oil trade",
+                    "Education and child tutoring",
+                    "Meat trade",
+                    "Law and arbitration",
+                    "Fire ritual organization"
+                ],
+                "हिंदी": [
+                    "सूत और धागे की वस्तुएं",
+                    "नमक, शहद या मुरब्बा व्यापार",
+                    "तेल का व्यापार",
+                    "बच्चों की शिक्षा और ट्यूशन",
+                    "मांस व्यापार",
+                    "वकालत और मध्यस्थता",
+                    "अग्निकर्म / यज्ञ आयोजन"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Teaching and academia",
+                    "Dramatic arts and theatre"
+                ],
+                "हिंदी": [
+                    "अध्यापन और शैक्षणिक कार्य",
+                    "नाटक-कला और थिएटर"
+                ]
+            }
+        },
+        {
+            "id": 12,
+            "name": "Uttara Phalguni , उत्तराफाल्गुनी",
+            "male_businesses": {
+                "English": [
+                    "Architecture and construction",
+                    "Matchmaking and marriage bureaus",
+                    "Religious rituals and priest services",
+                    "Soft grain trade"
+                ],
+                "हिंदी": [
+                    "वास्तुकला और निर्माण कार्य",
+                    "विवाह करवाना",
+                    "धार्मिक अनुष्ठान और पुरोहित कार्य",
+                    "कोमल अन्न (अनाज) का व्यापार"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Teaching and education",
+                    "Education business",
+                    "Hospital management",
+                    "Interior design and decoration",
+                    "Art gallery management",
+                    "Acting and modelling"
+                ],
+                "हिंदी": [
+                    "अध्यापन और शिक्षा",
+                    "शिक्षा-व्यवसाय",
+                    "अस्पताल प्रबंधन",
+                    "आंतरिक सज्जा (इंटीरियर डिजाइन)",
+                    "कला दीर्घा (आर्ट गैलरी) प्रबंधन",
+                    "अभिनय और मॉडलिंग"
+                ]
+            }
+        },
+        {
+            "id": 13,
+            "name": "Hasta , हस्त",
+            "male_businesses": {
+                "English": [
+                    "Textile and garment trade",
+                    "Jewellery trade",
+                    "Large vehicle dealership",
+                    "Painting and craftwork",
+                    "Artisanal and handloom manufacturing",
+                    "General trading",
+                    "Scriptural and astrological consulting",
+                    "Architecture",
+                    "Financial services and money lending",
+                    "Rice, grain, and dry fruit trade"
+                ],
+                "हिंदी": [
+                    "वस्त्र और आभूषण व्यवसाय",
+                    "आभूषण व्यापार",
+                    "बड़े वाहनों की डीलरशिप",
+                    "चित्रकारी और शिल्प कार्य",
+                    "दस्तकारी और हथकरघा निर्माण",
+                    "सामान्य व्यापार",
+                    "शास्त्र ज्ञान और ज्योतिषीय परामर्श",
+                    "वास्तु व्यवसाय",
+                    "धन का लेन-देन और वित्तीय सेवाएं",
+                    "चावल, अनाज और सूखे मेवों का व्यापार"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Sewing, weaving, and handloom work",
+                    "Stenography and secretarial services",
+                    "Handicrafts",
+                    "Agriculture and animal husbandry",
+                    "Textile mill operations"
+                ],
+                "हिंदी": [
+                    "सिलाई-बुनाई और हथकरघा कार्य",
+                    "स्टेनोग्राफी और सचिवीय सेवाएं",
+                    "हस्तशिल्प",
+                    "कृषि और पशुपालन",
+                    "कपड़ा मिल में कार्य"
+                ]
+            }
+        },
+        {
+            "id": 14,
+            "name": "Chitra , चित्रा",
+            "male_businesses": {
+                "English": [
+                    "Construction, masonry, and repair services",
+                    "Gem appraisal and testing",
+                    "Perfume and fragrance manufacturing",
+                    "Clerical and administrative work",
+                    "Cloth dyeing and textile finishing",
+                    "Mathematics and accounting",
+                    "Weaving and cloth manufacturing",
+                    "Precious grain and luxury goods trade"
+                ],
+                "हिंदी": [
+                    "निर्माण कार्य, चिनाई और मरम्मत सेवाएं",
+                    "रत्नों की परख और परीक्षण",
+                    "खुशबू और परफ्यूम निर्माण",
+                    "लिपिकीय और प्रशासनिक कार्य",
+                    "वस्त्र रंगाई और फिनिशिंग",
+                    "गणित और लेखा-जोखा",
+                    "जुलाहा और वस्त्र निर्माण",
+                    "कीमती अनाज और शानदार वस्तुओं का व्यापार"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Science and technical subjects",
+                    "Modelling and fashion",
+                    "Film, television, drama, and stage performance",
+                    "Dance and singing",
+                    "Agriculture",
+                    "Sewing and weaving"
+                ],
+                "हिंदी": [
+                    "विज्ञान और तकनीकी विषय",
+                    "मॉडलिंग और फैशन",
+                    "फिल्म, टीवी, नाटक और स्टेज प्रदर्शन",
+                    "नृत्य और गायन",
+                    "कृषि कार्य",
+                    "सिलाई-बुनाई"
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "name": "Swati , स्वाती",
+            "male_businesses": {
+                "English": [
+                    "Vehicle repair and maintenance (including tire puncture services)",
+                    "Petrol and fuel retail business",
+                    "Agriculture and farming",
+                    "Warehousing and commodity stockpiling",
+                    "Aviation and air travel services",
+                    "Air conditioning and cooling systems"
+                ],
+                "हिंदी": [
+                    "वाहन मरम्मत और रख-रखाव (पंक्चर दुकान सहित)",
+                    "पैट्रोल और ईंधन व्यवसाय",
+                    "कृषि और खेती",
+                    "भंडारण (वेयरहाउसिंग) और सामग्री संग्रहण",
+                    "हवाई यात्रा और विमानन सेवाएं",
+                    "वातानुकूलन (एसी) और शीतलन प्रणालियाँ"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Travel-related employment and tourism",
+                    "Night-shift professional services"
+                ],
+                "हिंदी": [
+                    "यात्रा-संबंधी रोजगार और पर्यटन",
+                    "रात्रिकालीन (नाइट शिफ्ट) सेवा कार्य"
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "name": "Vishakha , विशाखा",
+            "male_businesses": {
+                "English": [
+                    "Agricultural trade (sesame, moong, lentils)",
+                    "Cotton and cotton-goods trade",
+                    "Chickpea trade",
+                    "Furnace-based manufacturing and metalwork",
+                    "Dispute resolution and mediation",
+                    "Dance and music performance",
+                    "Clothing and jewellery trade",
+                    "Grain storage and warehousing"
+                ],
+                "हिंदी": [
+                    "तिल, मूंग और दालों का व्यापार",
+                    "कपास और सूती वस्त्र व्यापार",
+                    "चना व्यापार",
+                    "भट्टी का काम और धातु कर्म",
+                    "विवाद निपटाना और मध्यस्थता",
+                    "नृत्य और संगीत प्रदर्शन",
+                    "वस्त्र और आभूषण व्यापार",
+                    "धान्य-संग्रह (अनाज भंडारण)"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Musical instrument performance",
+                    "Classical music",
+                    "Arts and literature careers"
+                ],
+                "हिंदी": [
+                    "वाद्य-यंत्र वादन",
+                    "शास्त्रीय संगीत",
+                    "कला और साहित्य करियर"
+                ]
+            }
+        },
+        {
+            "id": 17,
+            "name": "Anuradha , अनुराधा",
+            "male_businesses": {
+                "English": [
+                    "Mediation, settlement negotiation, and peace-keeping",
+                    "Architecture and construction",
+                    "Leadership and management",
+                    "Entertainment and event management",
+                    "Winter crop trade",
+                    "Jaggery and sugar trade"
+                ],
+                "हिंदी": [
+                    "समझौता, वार्ता और शांति स्थापना के कार्य",
+                    "वास्तुकर्म और निर्माण कार्य",
+                    "नेतृत्व और प्रबंधन",
+                    "मनोरंजन और इवेंट मैनेजमेंट",
+                    "सर्दी की फसलों का व्यापार",
+                    "गुड़ और चीनी का व्यापार"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Science and technology",
+                    "Music and the arts",
+                    "Professional degree-based careers",
+                    "Dance, singing, and acting",
+                    "Drama, film, television, and radio broadcasting"
+                ],
+                "हिंदी": [
+                    "विज्ञान और प्रौद्योगिकी",
+                    "संगीत और कला",
+                    "व्यावसायिक डिग्री-आधारित करियर",
+                    "नृत्य, गायन और अभिनय",
+                    "नाटक, फिल्म, टीवी और रेडियो प्रसारण"
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "name": "Jyeshtha , ज्येष्ठा",
+            "male_businesses": {
+                "English": [
+                    "Martial arts instruction and combat training",
+                    "Stone-carving and masonry",
+                    "Dairy industry",
+                    "Water management and water-related work",
+                    "Clothing and jewellery trade",
+                    "Excavation and mining"
+                ],
+                "हिंदी": [
+                    "मार्शल आर्ट्स और युद्ध कौशल शिक्षण",
+                    "पत्थर पर खुदाई (स्टोन-कार्विंग) और चिनाई",
+                    "डेयरी उद्योग",
+                    "जल प्रबंधन और जल से जुड़े कार्य",
+                    "वस्त्र-आभूषण व्यापार",
+                    "खुदाई और खनन"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Sales and marketing",
+                    "Machinery and equipment operation",
+                    "Small business ownership",
+                    "Home-management services"
+                ],
+                "हिंदी": [
+                    "बिक्री (सेल्स) और मार्केटिंग",
+                    "मशीनरी और उपकरण संचालन",
+                    "छोटा व्यवसाय संचालन",
+                    "गृह-प्रबंधन सेवाएं"
+                ]
+            }
+        },
+        {
+            "id": 19,
+            "name": "Mula , मूल",
+            "male_businesses": {
+                "English": [
+                    "Agriculture and farming",
+                    "General business and trading",
+                    "Military and defense operations",
+                    "Medical practice and healthcare",
+                    "Writing and literature",
+                    "Dance",
+                    "Fruit and flower trade",
+                    "Seed trading",
+                    "Money-lending and interest-based finance"
+                ],
+                "हिंदी": [
+                    "कृषि और खेती",
+                    "सामान्य व्यापार और वाणिज्य",
+                    "सैन्य और रक्षा संचालन",
+                    "चिकित्सा और स्वास्थ्य सेवा",
+                    "लेखन और साहित्य",
+                    "नृत्यकला",
+                    "फल और फूलों का व्यापार",
+                    "बीजों का व्यापार",
+                    "धन व्यवसाय और ब्याज आधारित वित्त"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Independent professional entrepreneurship"
+                ],
+                "हिंदी": [
+                    "स्वतंत्र व्यावसायिक उद्यमिता"
+                ]
+            }
+        },
+        {
+            "id": 20,
+            "name": "Purva Ashadha , पूर्वाषाढ़ा",
+            "male_businesses": {
+                "English": [
+                    "Aquatic produce and fish trade",
+                    "Bridge-building and marine construction",
+                    "Water supply business",
+                    "Cold-drinks and beverage trade",
+                    "Investment banking and financial services",
+                    "Flower and fruit trade"
+                ],
+                "हिंदी": [
+                    "जलचर जीवों और मछली का व्यापार",
+                    "पुल-निर्माण और समुद्री निर्माण",
+                    "पानी का व्यवसाय",
+                    "कोल्ड ड्रिंक और पेय पदार्थ व्यापार",
+                    "इन्वेस्टमेंट बैंकिंग और वित्तीय सेवाएं",
+                    "फूलों और फलों का व्यापार"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Religious institution management",
+                    "Writing and publishing"
+                ],
+                "हिंदी": [
+                    "धार्मिक संस्थाओं का प्रबंधन",
+                    "लेखन और प्रकाशन"
+                ]
+            }
+        },
+        {
+            "id": 21,
+            "name": "Uttara Ashadha , उत्तराषाढ़ा",
+            "male_businesses": {
+                "English": [
+                    "Wrestling and combat sports training",
+                    "Elephant and horse trade (historical transport)",
+                    "Vehicle dealership and automotive business",
+                    "Timber trading and forestry produce",
+                    "Martial arts instruction",
+                    "Fashion goods manufacturing and retail",
+                    "Large-scale industrial manufacturing"
+                ],
+                "हिंदी": [
+                    "कुश्ती और द्वंद्व-युद्ध प्रशिक्षण",
+                    "हाथी-घोड़ों का व्यापार (वाहन व्यवसाय)",
+                    "वाहन डीलरशिप और ऑटोमोटिव व्यवसाय",
+                    "लकड़ी का व्यापार (टिंबर ट्रेडिंग) और वन उत्पाद",
+                    "युद्धकला (मार्शल आर्ट्स) शिक्षण",
+                    "फैशन सामग्री निर्माण और खुदरा व्यापार",
+                    "बड़े पैमाने पर औद्योगिक निर्माण"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Teaching and education",
+                    "Medicine and healthcare"
+                ],
+                "हिंदी": [
+                    "अध्यापन और शिक्षा",
+                    "चिकित्सा और स्वास्थ्य सेवा"
+                ]
+            }
+        },
+        {
+            "id": 22,
+            "name": "Shravana , श्रवण",
+            "male_businesses": {
+                "English": [
+                    "Consultancy and advisory services",
+                    "Medicine and healthcare",
+                    "Town planning and real estate development",
+                    "Otolaryngology (ear treatment)",
+                    "Storytelling, public speaking, and recitation",
+                    "Religious and spiritual work"
+                ],
+                "हिंदी": [
+                    "सलाहकारी और परामर्श सेवाएं",
+                    "चिकित्सा कार्य",
+                    "नगर नियोजन और नई बस्तियां बसाना",
+                    "कान की चिकित्सा (इयर ट्रीटमेंट)",
+                    "कथा वाचन, सार्वजनिक भाषण और प्रवचन",
+                    "धार्मिक और आध्यात्मिक कार्य"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Dance, singing, and performing arts",
+                    "Agriculture and horticulture",
+                    "Handicrafts and home-crafts",
+                    "Sewing and embroidery",
+                    "Folk singing",
+                    "Government service",
+                    "Clerical work",
+                    "Sales and customer service",
+                    "Reception roles"
+                ],
+                "हिंदी": [
+                    "नृत्य, गायन और प्रदर्शन कला",
+                    "कृषि और बागवानी",
+                    "गृह-शिल्प और हस्तशिल्प वस्तुएं",
+                    "सिलाई-कढ़ाई",
+                    "लोकगीत गायन",
+                    "सरकारी सेवा",
+                    "क्लर्क (लिपिकीय) कार्य",
+                    "सेल्स और ग्राहक सेवा",
+                    "स्वागत अधिकारी (रिसेप्शनिस्ट) की भूमिका"
+                ]
+            }
+        },
+        {
+            "id": 23,
+            "name": "Dhanishta , धनिष्ठा",
+            "male_businesses": {
+                "English": [
+                    "Automotive and vehicle trade",
+                    "Textile trade",
+                    "Medicine trade",
+                    "Sexual health therapy and counseling",
+                    "Public service and administration",
+                    "Hairdressing and salon services",
+                    "Jewellery sales",
+                    "Fashion goods trade",
+                    "Home décor retail"
+                ],
+                "हिंदी": [
+                    "वाहन और ऑटोमोटिव व्यापार",
+                    "वस्त्र व्यापार",
+                    "दवा व्यवसाय",
+                    "यौन स्वास्थ्य चिकित्सा और परामर्श",
+                    "जनसेवा और प्रशासन",
+                    "केशसज्जा (हेयरड्रेसिंग) और सैलून सेवाएं",
+                    "आभूषण बिक्री",
+                    "फैशन सामग्री व्यापार",
+                    "गृह-सज्जा (होम décor) खुदरा बिक्री"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Arts and literature",
+                    "Science and technology"
+                ],
+                "हिंदी": [
+                    "कला और साहित्य",
+                    "विज्ञान और प्रौद्योगिकी"
+                ]
+            }
+        },
+        {
+            "id": 24,
+            "name": "Shatabhisha , शतभिषा",
+            "male_businesses": {
+                "English": [
+                    "Fishing and aquaculture",
+                    "Pearls, coral, and sea produce trade",
+                    "Meat trade (pork and pork products)",
+                    "Laundry and dry-cleaning",
+                    "Dyeing and textile coloration",
+                    "Liquor trade and beverage distribution",
+                    "Bird-catching and wildlife management",
+                    "Medical practice",
+                    "Horse-riding instruction"
+                ],
+                "हिंदी": [
+                    "मछली पकड़ना और जलीय कृषि",
+                    "मोती, मूंगा या अन्य समुद्री पदार्थों का व्यापार",
+                    "मांस व्यापार (सूअर का मांस व उत्पाद)",
+                    "धुलाई (लांड्री) और ड्राई-क्लीनिंग",
+                    "रंगाई और वस्त्र सज्जा",
+                    "शराब व्यवसाय और पेय वितरण",
+                    "पक्षी पकड़ना और वन्यजीव प्रबंधन",
+                    "चिकित्सा कार्य",
+                    "घुड़सवारी शिक्षण"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Geography, science, and medicine studies",
+                    "Industrial work",
+                    "Social science research",
+                    "Advertising and marketing",
+                    "Film and television production"
+                ],
+                "हिंदी": [
+                    "भूगोल, विज्ञान या चिकित्सा अध्ययन",
+                    "औद्योगिक कार्य",
+                    "समाज-विज्ञान अनुसंधान",
+                    "विज्ञापन और मार्केटिंग",
+                    "फिल्म और टेलीविजन निर्माण"
+                ]
+            }
+        },
+        {
+            "id": 25,
+            "name": "Purva Bhadrapada , पूर्वभाद्रपदा",
+            "male_businesses": {
+                "English": [
+                    "Animal husbandry and livestock",
+                    "Martial arts instruction",
+                    "Combat training and military education",
+                    "Meat trade"
+                ],
+                "हिंदी": [
+                    "पशुपालन",
+                    "युद्ध-कौशल / मार्शल आर्ट्स शिक्षण",
+                    "युद्ध प्रशिक्षण और सैन्य शिक्षा",
+                    "मांस व्यापार"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Science and technology",
+                    "Medicine and healthcare",
+                    "Teaching and education",
+                    "Management and administration",
+                    "Writing and publishing",
+                    "Religious institution patronage"
+                ],
+                "हिंदी": [
+                    "विज्ञान और प्रौद्योगिकी",
+                    "चिकित्सा और स्वास्थ्य सेवा",
+                    "अध्यापन और शिक्षा",
+                    "प्रबंधन और प्रशासन",
+                    "लेखन और प्रकाशन",
+                    "धार्मिक संस्थाओं का संरक्षण"
+                ]
+            }
+        },
+        {
+            "id": 26,
+            "name": "Uttara Bhadrapada , उत्तराभाद्रपद",
+            "male_businesses": {
+                "English": [
+                    "Architecture and construction",
+                    "Ritual and yajna organization",
+                    "Charitable foundation management",
+                    "Spiritual coaching and monastic guidance",
+                    "Rice and husk-covered grain trade",
+                    "Almonds, cashews, and dry fruit trade",
+                    "Automotive and vehicle expertise"
+                ],
+                "हिंदी": [
+                    "वास्तुविद्या और निर्माण",
+                    "यज्ञ और कर्मकांड आयोजन",
+                    "दान-संस्था और चैरिटेबल फाउंडेशन प्रबंधन",
+                    "आध्यात्मिक कोचिंग और संन्यास/मार्गदर्शन",
+                    "चावल या छिलके वाले अनाज का व्यापार",
+                    "बादाम, काजू और सूखे मेवों का व्यापार",
+                    "वाहन विद्या और ऑटोमोटिव विशेषज्ञता"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Teaching and education",
+                    "Medicine and healthcare",
+                    "Journalism and media"
+                ],
+                "हिंदी": [
+                    "अध्यापन और शिक्षा",
+                    "चिकित्सा सेवा",
+                    "पत्रकारिता और संचार माध्यम"
+                ]
+            }
+        },
+        {
+            "id": 27,
+            "name": "Revati , रेवती",
+            "male_businesses": {
+                "English": [
+                    "Aquatic produce trade (flowers, salt, gems, conch shells, pearls, fragrant substances)",
+                    "Commercial boating and maritime transport",
+                    "Sea voyages and shipping",
+                    "Medium-scale industrial manufacturing"
+                ],
+                "हिंदी": [
+                    "जल से उत्पन्न पदार्थों का व्यापार (फूल, नमक, रत्न, शंख, मोती, सुगंधित पदार्थ)",
+                    "व्यापारिक नौका चालन और समुद्री परिवहन",
+                    "समुद्री यात्राएं और शिपिंग",
+                    "मध्यम उद्योग संचालन"
+                ]
+            },
+            "female_businesses": {
+                "English": [
+                    "Teaching and education"
+                ],
+                "हिंदी": [
+                    "अध्यापन और शिक्षा"
+                ]
+            }
+        }
+    ]
+}

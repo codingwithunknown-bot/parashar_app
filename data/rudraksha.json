@@ -1,0 +1,1106 @@
+{
+    "metadata": {
+        "title": {
+            "en": "Rudraksha Astrology & Benefits Database",
+            "hi": "रुद्राक्ष ज्योतिष एवं लाभ डेटाबेस"
+        },
+        "description": {
+            "en": "A comprehensive bilingual reference covering Rudraksha mukhis (faces), their ruling planets, deities, mantras, chakras, and astrological benefits.",
+            "hi": "रुद्राक्ष के विभिन्न मुखों, उनके स्वामी ग्रहों, देवताओं, मंत्रों, चक्रों और ज्योतिषीय लाभों पर आधारित एक विस्तृत द्विभाषी संदर्भ।"
+        },
+        "version": "2.0",
+        "language_keys": [
+            "en",
+            "hi"
+        ],
+        "disclaimer": {
+            "en": "This information is based on traditional Vedic astrology and Rudraksha lore. It is intended for general informational and spiritual reference, not as medical or professional advice.",
+            "hi": "यह जानकारी पारंपरिक वैदिक ज्योतिष और रुद्राक्ष शास्त्र पर आधारित है। यह सामान्य जानकारी एवं आध्यात्मिक संदर्भ हेतु है, चिकित्सकीय या व्यावसायिक सलाह नहीं है।"
+        }
+    },
+    "rudraksha_database": {
+        "1_mukhi": {
+            "name": {
+                "en": "1 Mukhi Rudraksha",
+                "hi": "एक मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Sun",
+                "hi": "सूर्य"
+            },
+            "ruling_deity": {
+                "en": "Lord Shiva (Sadashiva form)",
+                "hi": "भगवान शिव (सदाशिव स्वरूप)"
+            },
+            "chakra": {
+                "en": "Sahasrara (Crown Chakra)",
+                "hi": "सहस्रार चक्र"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Leo"
+                ],
+                "hi": [
+                    "सिंह राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Sunday",
+                "hi": "रविवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ ह्रीं ॐ नमः शिवाय",
+                "meaning_hi": "यह मंत्र आत्मा और परमात्मा के मिलन का प्रतीक है"
+            },
+            "recommended_metal": {
+                "en": "Gold or copper",
+                "hi": "सोना या तांबा"
+            },
+            "benefits": {
+                "leadership_authority": {
+                    "en": "Strengthens the Sun's position in the chart. Boosts leadership qualities and enhances decision-making.",
+                    "hi": "कुंडली में सूर्य की स्थिति को मजबूत करता है। नेतृत्व क्षमता बढ़ाता है और निर्णय लेने की शक्ति को सुदृढ़ करता है।"
+                },
+                "confidence_clarity": {
+                    "en": "Improves focus, willpower, and self-confidence. Alleviates confusion and mental fog.",
+                    "hi": "एकाग्रता, इच्छाशक्ति और आत्मविश्वास में सुधार करता है। मानसिक भ्रम और उलझन को दूर करता है।"
+                },
+                "health": {
+                    "en": "Counters health issues caused by a weak Sun, such as eye problems, heart conditions, and lack of vitality.",
+                    "hi": "कमजोर सूर्य के कारण होने वाली स्वास्थ्य समस्याओं जैसे आंखों की समस्या, हृदय रोग और शक्ति की कमी को दूर करता है।"
+                },
+                "wealth_prosperity": {
+                    "en": "Encourages financial stability and growth by strengthening planetary alignments.",
+                    "hi": "ग्रहों की स्थिति को मजबूत कर आर्थिक स्थिरता और वृद्धि को बढ़ावा देता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Leaders, administrators, government officials, and those seeking clarity of purpose.",
+                "hi": "नेता, प्रशासक, सरकारी अधिकारी और जो लोग जीवन के उद्देश्य में स्पष्टता चाहते हैं।"
+            }
+        },
+        "2_mukhi": {
+            "name": {
+                "en": "2 Mukhi Rudraksha",
+                "hi": "दो मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Moon",
+                "hi": "चंद्रमा"
+            },
+            "ruling_deity": {
+                "en": "Ardhanarishvara (Shiva-Parvati united form)",
+                "hi": "अर्धनारीश्वर (शिव-पार्वती संयुक्त स्वरूप)"
+            },
+            "chakra": {
+                "en": "Swadhisthana (Sacral Chakra)",
+                "hi": "स्वाधिष्ठान चक्र"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Cancer"
+                ],
+                "hi": [
+                    "कर्क राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Monday",
+                "hi": "सोमवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ नमः",
+                "meaning_hi": "एकता और समर्पण का प्रतीक मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Silver",
+                "hi": "चांदी"
+            },
+            "benefits": {
+                "emotional_stability": {
+                    "en": "Calms the mind and alleviates mood swings. Reduces stress, anxiety, and emotional turbulence.",
+                    "hi": "मन को शांत करता है और मूड में उतार-चढ़ाव को कम करता है। तनाव, चिंता और भावनात्मक अस्थिरता को कम करता है।"
+                },
+                "relationships": {
+                    "en": "Improves harmony between partners, family members, and friends. Reduces conflicts and strengthens bonds.",
+                    "hi": "साथी, परिवार और मित्रों के बीच सामंजस्य बढ़ाता है। संघर्ष कम करता है और रिश्तों को मजबूत करता है।"
+                },
+                "fertility_parenthood": {
+                    "en": "Promotes fertility and blessings of children. Strengthens marital bonds and removes obstacles to parenthood.",
+                    "hi": "संतान प्राप्ति और प्रजनन क्षमता को बढ़ावा देता है। वैवाहिक संबंध मजबूत करता है और संतान सुख में आने वाली बाधाओं को दूर करता है।"
+                },
+                "financial_stability": {
+                    "en": "Enhances cooperation and partnership in business ventures.",
+                    "hi": "व्यापारिक साझेदारी और सहयोग को बढ़ाता है।"
+                },
+                "health": {
+                    "en": "Helps in addressing health issues related to the mind, such as insomnia and depression. Balances water retention and hormonal imbalances influenced by the Moon.",
+                    "hi": "अनिद्रा और अवसाद जैसी मानसिक स्वास्थ्य समस्याओं में सहायक। चंद्रमा से प्रभावित जल प्रतिधारण और हार्मोनल असंतुलन को संतुलित करता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Couples seeking harmony, people wanting emotional balance, those trying to conceive.",
+                "hi": "जोड़े जो सामंजस्य चाहते हैं, भावनात्मक संतुलन के इच्छुक लोग, और संतान की इच्छा रखने वाले दंपत्ति।"
+            }
+        },
+        "3_mukhi": {
+            "name": {
+                "en": "3 Mukhi Rudraksha",
+                "hi": "तीन मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Mars",
+                "hi": "मंगल"
+            },
+            "ruling_deity": {
+                "en": "Agni (Fire God)",
+                "hi": "अग्नि देव"
+            },
+            "chakra": {
+                "en": "Manipura (Solar Plexus Chakra)",
+                "hi": "मणिपुर चक्र"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Aries",
+                    "Scorpio"
+                ],
+                "hi": [
+                    "मेष राशि",
+                    "वृश्चिक राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Tuesday",
+                "hi": "मंगलवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ क्लीं नमः",
+                "meaning_hi": "साहस और शक्ति प्रदान करने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Copper or red thread",
+                "hi": "तांबा या लाल धागा"
+            },
+            "benefits": {
+                "energy_confidence": {
+                    "en": "Boosts self-esteem and courage. Helps overcome fears, procrastination, and lack of motivation.",
+                    "hi": "आत्मसम्मान और साहस बढ़ाता है। भय, टालमटोल और प्रेरणा की कमी को दूर करने में सहायक।"
+                },
+                "mental_emotional_health": {
+                    "en": "Alleviates anger, stress, and impulsiveness. Promotes a calm and balanced mindset.",
+                    "hi": "क्रोध, तनाव और उतावलेपन को कम करता है। शांत और संतुलित मानसिकता को बढ़ावा देता है।"
+                },
+                "physical_health": {
+                    "en": "Addresses health issues related to blood, immunity, and digestive system. Known to aid in the healing of chronic illnesses like diabetes and liver disorders.",
+                    "hi": "रक्त, प्रतिरक्षा प्रणाली और पाचन तंत्र से संबंधित स्वास्थ्य समस्याओं में सहायक। मधुमेह और यकृत विकारों जैसी दीर्घकालिक बीमारियों में लाभकारी माना जाता है।"
+                },
+                "career_success": {
+                    "en": "Helps overcome obstacles in professional life. Encourages decisive action and goal-oriented behavior.",
+                    "hi": "व्यावसायिक जीवन की बाधाओं को दूर करने में सहायक। निर्णायक कार्यवाही और लक्ष्य-उन्मुख व्यवहार को प्रोत्साहित करता है।"
+                },
+                "karmic_debts": {
+                    "en": "Burns negative karma, promoting a fresh start in life.",
+                    "hi": "नकारात्मक कर्मों को नष्ट कर जीवन में नई शुरुआत को बढ़ावा देता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Those facing anger issues, lack of confidence, or seeking career breakthroughs.",
+                "hi": "क्रोध की समस्या, आत्मविश्वास की कमी या करियर में सफलता चाहने वाले लोग।"
+            }
+        },
+        "4_mukhi": {
+            "name": {
+                "en": "4 Mukhi Rudraksha",
+                "hi": "चार मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Mercury",
+                "hi": "बुध"
+            },
+            "ruling_deity": {
+                "en": "Lord Brahma",
+                "hi": "भगवान ब्रह्मा"
+            },
+            "chakra": {
+                "en": "Anahata (Heart Chakra) - communication aspect",
+                "hi": "अनाहत चक्र (संचार पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Gemini",
+                    "Virgo"
+                ],
+                "hi": [
+                    "मिथुन राशि",
+                    "कन्या राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Wednesday",
+                "hi": "बुधवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ ह्रीं नमः",
+                "meaning_hi": "बुद्धि और वाणी को निखारने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Silver or panchdhatu",
+                "hi": "चांदी या पंचधातु"
+            },
+            "benefits": {
+                "intellectual_growth": {
+                    "en": "Enhances memory, focus, and analytical thinking. Ideal for students, teachers, writers, and researchers.",
+                    "hi": "स्मरण शक्ति, एकाग्रता और विश्लेषणात्मक सोच को बढ़ाता है। विद्यार्थियों, शिक्षकों, लेखकों और शोधकर्ताओं के लिए उपयुक्त।"
+                },
+                "communication_skills": {
+                    "en": "Improves speech clarity, eloquence, and confidence. Beneficial for public speakers, leaders, and professionals in communication-related fields.",
+                    "hi": "वाणी में स्पष्टता, प्रवाह और आत्मविश्वास बढ़ाता है। सार्वजनिक वक्ताओं, नेताओं और संचार क्षेत्र के पेशेवरों के लिए लाभदायक।"
+                },
+                "creativity": {
+                    "en": "Boosts creative thinking and expression. Helps artists, musicians, and writers unleash their full potential.",
+                    "hi": "रचनात्मक सोच और अभिव्यक्ति को बढ़ाता है। कलाकारों, संगीतकारों और लेखकों की पूर्ण क्षमता को उजागर करने में सहायक।"
+                },
+                "health": {
+                    "en": "Helps address health issues related to the nervous system, speech disorders, and mental stress. Balances hormonal imbalances and improves skin health.",
+                    "hi": "तंत्रिका तंत्र, वाणी विकार और मानसिक तनाव से जुड़ी समस्याओं में सहायक। हार्मोनल असंतुलन को संतुलित करता है और त्वचा के स्वास्थ्य में सुधार करता है।"
+                },
+                "wealth_success": {
+                    "en": "Strengthens decision-making and problem-solving abilities, aiding in professional success.",
+                    "hi": "निर्णय लेने और समस्या-समाधान की क्षमता को मजबूत कर व्यावसायिक सफलता में सहायक।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Students, teachers, writers, speakers, and professionals in communication fields.",
+                "hi": "विद्यार्थी, शिक्षक, लेखक, वक्ता और संचार क्षेत्र से जुड़े पेशेवर।"
+            }
+        },
+        "5_mukhi": {
+            "name": {
+                "en": "5 Mukhi Rudraksha",
+                "hi": "पांच मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Jupiter",
+                "hi": "बृहस्पति (गुरु)"
+            },
+            "ruling_deity": {
+                "en": "Kalagni Rudra",
+                "hi": "कालाग्नि रुद्र"
+            },
+            "chakra": {
+                "en": "Vishuddha (Throat Chakra) - wisdom aspect",
+                "hi": "विशुद्ध चक्र (ज्ञान पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Sagittarius",
+                    "Pisces"
+                ],
+                "hi": [
+                    "धनु राशि",
+                    "मीन राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Thursday",
+                "hi": "गुरुवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ ह्रीं नमः",
+                "meaning_hi": "यह सबसे सामान्य और सर्वग्राही रुद्राक्ष का मंत्र है, प्रतिदिन धारण हेतु उपयुक्त"
+            },
+            "recommended_metal": {
+                "en": "Any metal, or a simple thread",
+                "hi": "कोई भी धातु, या साधारण धागा"
+            },
+            "benefits": {
+                "knowledge_wisdom": {
+                    "en": "Enhances learning abilities and intellectual growth. Beneficial for students, teachers, and seekers of spiritual knowledge.",
+                    "hi": "सीखने की क्षमता और बौद्धिक विकास को बढ़ाता है। विद्यार्थियों, शिक्षकों और आध्यात्मिक ज्ञान के जिज्ञासुओं के लिए लाभकारी।"
+                },
+                "spiritual_growth": {
+                    "en": "Helps align the mind with higher consciousness. Aids in meditation and self-realization.",
+                    "hi": "मन को उच्च चेतना के साथ संरेखित करने में सहायक। ध्यान और आत्म-साक्षात्कार में सहायक।"
+                },
+                "physical_health": {
+                    "en": "Promotes overall health and vitality. Known to help with health, blood pressure regulation, and stress management.",
+                    "hi": "समग्र स्वास्थ्य और जीवनशक्ति को बढ़ावा देता है। रक्तचाप नियंत्रण और तनाव प्रबंधन में सहायक माना जाता है।"
+                },
+                "financial_stability": {
+                    "en": "Brings good fortune and financial stability by balancing Jupiter's energies.",
+                    "hi": "बृहस्पति की ऊर्जाओं को संतुलित कर सौभाग्य और आर्थिक स्थिरता लाता है।"
+                },
+                "relationships": {
+                    "en": "Enhances compassion, patience, and understanding in personal and professional relationships.",
+                    "hi": "व्यक्तिगत और व्यावसायिक संबंधों में करुणा, धैर्य और समझ को बढ़ाता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Suitable for everyone regardless of astrological chart; most commonly recommended mukhi for daily wear.",
+                "hi": "यह लगभग सभी के लिए उपयुक्त है, चाहे कुंडली कोई भी हो; नियमित रूप से धारण किए जाने वाला सबसे सामान्य मुखी।"
+            }
+        },
+        "6_mukhi": {
+            "name": {
+                "en": "6 Mukhi Rudraksha",
+                "hi": "छह मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Venus",
+                "hi": "शुक्र"
+            },
+            "ruling_deity": {
+                "en": "Lord Kartikeya (Skanda)",
+                "hi": "भगवान कार्तिकेय (स्कंद)"
+            },
+            "chakra": {
+                "en": "Vishuddha (Throat Chakra) - artistic aspect",
+                "hi": "विशुद्ध चक्र (कलात्मक पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Taurus",
+                    "Libra"
+                ],
+                "hi": [
+                    "वृषभ राशि",
+                    "तुला राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Friday",
+                "hi": "शुक्रवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ ह्रीं हुं नमः",
+                "meaning_hi": "प्रेम, सौंदर्य और रचनात्मकता को बढ़ाने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Silver or platinum",
+                "hi": "चांदी या प्लेटिनम"
+            },
+            "benefits": {
+                "emotional_stability": {
+                    "en": "Helps in overcoming mood swings, anger, and emotional upheavals. Provides balance and resilience in challenging situations.",
+                    "hi": "मूड में उतार-चढ़ाव, क्रोध और भावनात्मक उथल-पुथल पर काबू पाने में सहायक। कठिन परिस्थितियों में संतुलन और सहनशक्ति प्रदान करता है।"
+                },
+                "relationships": {
+                    "en": "Strengthens romantic relationships and promotes understanding and harmony. Enhances love and passion in life.",
+                    "hi": "प्रेम संबंधों को मजबूत करता है और समझ व सामंजस्य को बढ़ावा देता है। जीवन में प्रेम और जुनून को बढ़ाता है।"
+                },
+                "financial_growth": {
+                    "en": "Attracts wealth, abundance, and material success. Helps with better financial decision-making.",
+                    "hi": "धन, समृद्धि और भौतिक सफलता को आकर्षित करता है। बेहतर वित्तीय निर्णय लेने में सहायक।"
+                },
+                "creativity": {
+                    "en": "Boosts artistic talents and innovation. Ideal for those in creative professions like art, music, or writing.",
+                    "hi": "कलात्मक प्रतिभा और नवाचार को बढ़ाता है। कला, संगीत या लेखन जैसे रचनात्मक क्षेत्रों के लोगों के लिए आदर्श।"
+                },
+                "physical_health": {
+                    "en": "Supports the reproductive system and sexual health. Helps with ailments related to the skin, kidneys, and throat.",
+                    "hi": "प्रजनन तंत्र और यौन स्वास्थ्य को सहयोग देता है। त्वचा, गुर्दे और गले से संबंधित रोगों में सहायक।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Artists, couples, and those seeking material comforts and relationship harmony.",
+                "hi": "कलाकार, युगल और भौतिक सुख-सुविधा तथा रिश्तों में सामंजस्य चाहने वाले लोग।"
+            }
+        },
+        "7_mukhi": {
+            "name": {
+                "en": "7 Mukhi Rudraksha",
+                "hi": "सात मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Saturn",
+                "hi": "शनि"
+            },
+            "ruling_deity": {
+                "en": "Goddess Mahalakshmi",
+                "hi": "देवी महालक्ष्मी"
+            },
+            "chakra": {
+                "en": "Manipura (Solar Plexus Chakra) - discipline aspect",
+                "hi": "मणिपुर चक्र (अनुशासन पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Capricorn",
+                    "Aquarius"
+                ],
+                "hi": [
+                    "मकर राशि",
+                    "कुंभ राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Saturday",
+                "hi": "शनिवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ हुं नमः",
+                "meaning_hi": "शनि दोष और साढ़ेसाती के प्रभाव को शांत करने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Iron thread, silver, or panchdhatu",
+                "hi": "लौह धागा, चांदी या पंचधातु"
+            },
+            "benefits": {
+                "wealth_prosperity": {
+                    "en": "Attracts wealth and abundance. Helps overcome financial struggles and achieve stability.",
+                    "hi": "धन और समृद्धि को आकर्षित करता है। आर्थिक संघर्ष से उबरने और स्थिरता प्राप्त करने में सहायक।"
+                },
+                "health": {
+                    "en": "Provides relief from chronic illnesses and ailments caused by Saturn's malefic influence. Aids in overcoming fatigue, joint pain, and stress-related health issues.",
+                    "hi": "शनि के अशुभ प्रभाव से होने वाली दीर्घकालिक बीमारियों में राहत प्रदान करता है। थकान, जोड़ों के दर्द और तनाव-जनित समस्याओं से उबरने में सहायक।"
+                },
+                "karmic_relief": {
+                    "en": "Balances past-life karmic debts. Eases the impact of Saturn's challenging periods (Sade Sati or Saturn's return).",
+                    "hi": "पूर्व जन्म के कर्म ऋणों को संतुलित करता है। साढ़ेसाती या शनि की ढैय्या जैसी कठिन अवधियों के प्रभाव को कम करता है।"
+                },
+                "professional_growth": {
+                    "en": "Enhances focus, discipline, and determination, leading to career success. Beneficial for individuals in fields like business, law, and politics.",
+                    "hi": "एकाग्रता, अनुशासन और दृढ़ संकल्प को बढ़ाकर करियर में सफलता दिलाता है। व्यापार, कानून और राजनीति जैसे क्षेत्रों के लोगों के लिए लाभकारी।"
+                },
+                "relationships": {
+                    "en": "Promotes harmony in personal and professional relationships. Helps resolve misunderstandings and conflicts caused by Saturn's effects.",
+                    "hi": "व्यक्तिगत और व्यावसायिक संबंधों में सामंजस्य बढ़ाता है। शनि के प्रभाव से उत्पन्न गलतफहमियों और संघर्षों को सुलझाने में सहायक।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Those undergoing Sade Sati, facing career delays, or dealing with Saturn-related struggles.",
+                "hi": "साढ़ेसाती से गुजर रहे, करियर में देरी का सामना कर रहे या शनि संबंधी संघर्षों से जूझ रहे लोग।"
+            }
+        },
+        "8_mukhi": {
+            "name": {
+                "en": "8 Mukhi Rudraksha",
+                "hi": "आठ मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Rahu",
+                "hi": "राहु"
+            },
+            "ruling_deity": {
+                "en": "Lord Ganesha (Bhairava aspect)",
+                "hi": "भगवान गणेश (भैरव स्वरूप)"
+            },
+            "chakra": {
+                "en": "Muladhara (Root Chakra) - obstacle removal aspect",
+                "hi": "मूलाधार चक्र (बाधा निवारण पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "No fixed sign - shadow planet"
+                ],
+                "hi": [
+                    "कोई निश्चित राशि नहीं - छाया ग्रह"
+                ]
+            },
+            "wearing_day": {
+                "en": "Saturday or Wednesday",
+                "hi": "शनिवार या बुधवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ हुं नमः",
+                "meaning_hi": "बाधाओं को दूर करने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Panchdhatu or silver",
+                "hi": "पंचधातु या चांदी"
+            },
+            "benefits": {
+                "removes_obstacles": {
+                    "en": "Neutralizes obstacles caused by Rahu or unfavorable planetary alignments. Helps in overcoming challenges in personal, professional, and spiritual life.",
+                    "hi": "राहु या प्रतिकूल ग्रह स्थितियों के कारण उत्पन्न बाधाओं को निष्क्रिय करता है। व्यक्तिगत, व्यावसायिक और आध्यात्मिक जीवन की चुनौतियों को दूर करने में सहायक।"
+                },
+                "mental_clarity": {
+                    "en": "Improves focus, decision-making, and intellectual abilities. Mitigates confusion and anxiety caused by Rahu's malefic effects.",
+                    "hi": "एकाग्रता, निर्णय क्षमता और बौद्धिक क्षमताओं में सुधार करता है। राहु के अशुभ प्रभावों से उत्पन्न भ्रम और चिंता को कम करता है।"
+                },
+                "career_creativity": {
+                    "en": "Promotes success in endeavors, especially in competitive or creative fields. Enhances innovation, making it ideal for artists, entrepreneurs, and professionals.",
+                    "hi": "विशेष रूप से प्रतिस्पर्धात्मक या रचनात्मक क्षेत्रों में सफलता को बढ़ावा देता है। नवाचार को बढ़ाता है, जो कलाकारों, उद्यमियों और पेशेवरों के लिए आदर्श है।"
+                },
+                "karmic_resolution": {
+                    "en": "Helps resolve past-life karmic debts and ensures smoother progress in life. Provides relief from situations that seem stuck or delayed.",
+                    "hi": "पूर्व जन्म के कर्म ऋणों को सुलझाने में सहायक और जीवन में सुचारू प्रगति सुनिश्चित करता है। अटकी या विलंबित परिस्थितियों में राहत प्रदान करता है।"
+                },
+                "protection_negative_influences": {
+                    "en": "Shields the wearer from Rahu's negative energies, psychic attacks, and illusions.",
+                    "hi": "धारक को राहु की नकारात्मक ऊर्जाओं, मानसिक आक्रमणों और भ्रमों से सुरक्षा प्रदान करता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Those facing sudden obstacles, confusion, or unexplained delays in life, especially under Rahu's influence.",
+                "hi": "अचानक बाधाओं, भ्रम या जीवन में अस्पष्ट देरी का सामना कर रहे लोग, विशेषकर राहु के प्रभाव में।"
+            }
+        },
+        "9_mukhi": {
+            "name": {
+                "en": "9 Mukhi Rudraksha",
+                "hi": "नौ मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Ketu",
+                "hi": "केतु"
+            },
+            "ruling_deity": {
+                "en": "Goddess Durga (Nav Durga)",
+                "hi": "देवी दुर्गा (नव दुर्गा)"
+            },
+            "chakra": {
+                "en": "Ajna (Third Eye Chakra) - intuition aspect",
+                "hi": "आज्ञा चक्र (अंतर्दृष्टि पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "No fixed sign - shadow planet"
+                ],
+                "hi": [
+                    "कोई निश्चित राशि नहीं - छाया ग्रह"
+                ]
+            },
+            "wearing_day": {
+                "en": "Tuesday or Sunday",
+                "hi": "मंगलवार या रविवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ ह्रीं हुं नमः",
+                "meaning_hi": "साहस और आध्यात्मिक शक्ति देने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Gold or panchdhatu",
+                "hi": "सोना या पंचधातु"
+            },
+            "benefits": {
+                "overcoming_fear": {
+                    "en": "Provides courage and strength to face life's challenges. Removes irrational fears, phobias, and anxiety caused by Ketu's malefic influence.",
+                    "hi": "जीवन की चुनौतियों का सामना करने के लिए साहस और शक्ति प्रदान करता है। केतु के अशुभ प्रभाव से उत्पन्न अतार्किक भय, फोबिया और चिंता को दूर करता है।"
+                },
+                "spiritual_growth": {
+                    "en": "Encourages detachment from material obsessions and fosters a deeper connection with the divine. Promotes meditation, self-realization, and inner peace.",
+                    "hi": "भौतिक आसक्तियों से वैराग्य को प्रोत्साहित करता है और परमात्मा से गहरा संबंध स्थापित करता है। ध्यान, आत्म-साक्षात्कार और आंतरिक शांति को बढ़ावा देता है।"
+                },
+                "karmic_freedom": {
+                    "en": "Cleanses past-life karmic burdens and facilitates a smooth journey toward liberation (moksha).",
+                    "hi": "पूर्व जन्म के कर्म भार को शुद्ध करता है और मोक्ष की ओर सुगम यात्रा को सुगम बनाता है।"
+                },
+                "health_benefits": {
+                    "en": "Alleviates health issues such as skin diseases, allergies, and mental disorders associated with Ketu. Balances the nervous system, improving emotional stability.",
+                    "hi": "केतु से संबंधित त्वचा रोग, एलर्जी और मानसिक विकारों को कम करता है। तंत्रिका तंत्र को संतुलित कर भावनात्मक स्थिरता में सुधार करता है।"
+                },
+                "career_creativity": {
+                    "en": "Ideal for individuals in fields requiring innovation, intuition, or spiritual understanding (e.g., healers, writers, and artists). Removes obstacles in career and fosters growth.",
+                    "hi": "नवाचार, अंतर्ज्ञान या आध्यात्मिक समझ की आवश्यकता वाले क्षेत्रों (जैसे चिकित्सक, लेखक और कलाकार) के लोगों के लिए आदर्श। करियर की बाधाओं को दूर कर विकास को बढ़ावा देता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Spiritual seekers, those facing unexplained fears, and individuals under Ketu's challenging periods.",
+                "hi": "आध्यात्मिक साधक, अस्पष्ट भय का सामना कर रहे लोग और केतु की कठिन अवधि से गुजर रहे व्यक्ति।"
+            }
+        },
+        "10_mukhi": {
+            "name": {
+                "en": "10 Mukhi Rudraksha",
+                "hi": "दस मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "All Navagraha / Universal",
+                "hi": "सभी नवग्रह / सार्वभौमिक"
+            },
+            "ruling_deity": {
+                "en": "Lord Vishnu",
+                "hi": "भगवान विष्णु"
+            },
+            "chakra": {
+                "en": "All chakras (balancing)",
+                "hi": "सभी चक्र (संतुलनकारी)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "All signs - universal benefit"
+                ],
+                "hi": [
+                    "सभी राशियाँ - सार्वभौमिक लाभ"
+                ]
+            },
+            "wearing_day": {
+                "en": "Any day, preferably Thursday",
+                "hi": "किसी भी दिन, विशेषकर गुरुवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ ह्रीं नमो नमः",
+                "meaning_hi": "सभी ग्रहों के प्रभाव को संतुलित करने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Gold or panchdhatu",
+                "hi": "सोना या पंचधातु"
+            },
+            "benefits": {
+                "protection_negative_energies": {
+                    "en": "Acts as a shield against black magic, psychic attacks, and negative influences caused by unfavorable planetary alignments. Provides relief from doshas like Pitru Dosha, Kaal Sarp Dosha, and other astrological afflictions.",
+                    "hi": "काले जादू, मानसिक आक्रमणों और प्रतिकूल ग्रह स्थितियों से उत्पन्न नकारात्मक प्रभावों के विरुद्ध ढाल का कार्य करता है। पितृ दोष, काल सर्प दोष जैसे दोषों से राहत प्रदान करता है।"
+                },
+                "balances_planetary_influences": {
+                    "en": "Harmonizes the effects of all nine planets (Navagraha), ensuring a smoother and more balanced life. Helps individuals with multiple planetary conflicts in their birth charts.",
+                    "hi": "सभी नौ ग्रहों (नवग्रह) के प्रभावों में सामंजस्य स्थापित कर एक सुचारू और संतुलित जीवन सुनिश्चित करता है। जिन कुंडलियों में कई ग्रहों का टकराव है, उनके लिए सहायक।"
+                },
+                "freedom_from_fear": {
+                    "en": "Reduces irrational fears, anxiety, and confusion caused by astrological imbalances or negative karmic influences. Provides emotional stability and a sense of inner peace.",
+                    "hi": "ज्योतिषीय असंतुलन या नकारात्मक कर्म प्रभावों से उत्पन्न अतार्किक भय, चिंता और भ्रम को कम करता है। भावनात्मक स्थिरता और आंतरिक शांति की अनुभूति प्रदान करता है।"
+                },
+                "karmic_resolution": {
+                    "en": "Helps mitigate past-life karmic challenges and promotes liberation (moksha). Encourages spiritual growth by fostering self-awareness and detachment.",
+                    "hi": "पूर्व जन्म की कर्म चुनौतियों को कम करने में सहायक और मोक्ष को बढ़ावा देता है। आत्म-जागरूकता और वैराग्य को बढ़ावा देकर आध्यात्मिक विकास को प्रोत्साहित करता है।"
+                },
+                "career_financial_growth": {
+                    "en": "Supports professionals, entrepreneurs, and individuals in overcoming obstacles in career and finances. Helps attract prosperity and stability.",
+                    "hi": "पेशेवरों, उद्यमियों और व्यक्तियों को करियर एवं वित्त की बाधाओं को दूर करने में सहयोग देता है। समृद्धि और स्थिरता को आकर्षित करने में सहायक।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Anyone seeking overall protection, especially those affected by multiple doshas or planetary afflictions.",
+                "hi": "समग्र सुरक्षा चाहने वाले कोई भी व्यक्ति, विशेषकर जो कई दोषों या ग्रह पीड़ाओं से प्रभावित हों।"
+            }
+        },
+        "11_mukhi": {
+            "name": {
+                "en": "11 Mukhi Rudraksha",
+                "hi": "ग्यारह मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Sun (secondary) / Ekadash Rudra",
+                "hi": "सूर्य (गौण) / एकादश रुद्र"
+            },
+            "ruling_deity": {
+                "en": "Lord Hanuman / Ekadash Rudra",
+                "hi": "भगवान हनुमान / एकादश रुद्र"
+            },
+            "chakra": {
+                "en": "Ajna (Third Eye Chakra) - willpower aspect",
+                "hi": "आज्ञा चक्र (इच्छाशक्ति पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Beneficial across signs"
+                ],
+                "hi": [
+                    "सभी राशियों के लिए लाभकारी"
+                ]
+            },
+            "wearing_day": {
+                "en": "Tuesday or Saturday",
+                "hi": "मंगलवार या शनिवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ ह्रीं हुं नमः",
+                "meaning_hi": "साहस, शक्ति और सुरक्षा प्रदान करने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Copper or panchdhatu",
+                "hi": "तांबा या पंचधातु"
+            },
+            "benefits": {
+                "courage_protection": {
+                    "en": "Instills fearlessness and inner strength. Believed to protect the wearer from accidents and unforeseen dangers.",
+                    "hi": "निर्भयता और आंतरिक शक्ति का संचार करता है। धारक को दुर्घटनाओं और अप्रत्याशित खतरों से बचाने वाला माना जाता है।"
+                },
+                "mental_focus": {
+                    "en": "Sharpens concentration and willpower, aiding disciplined pursuit of goals.",
+                    "hi": "एकाग्रता और इच्छाशक्ति को तीव्र करता है, लक्ष्यों की अनुशासित प्राप्ति में सहायक।"
+                },
+                "spiritual_growth": {
+                    "en": "Supports meditation and connects the wearer to higher wisdom associated with Lord Hanuman's devotion and strength.",
+                    "hi": "ध्यान में सहायक और भगवान हनुमान की भक्ति व शक्ति से जुड़े उच्च ज्ञान से धारक को जोड़ता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Those seeking protection, courage, and disciplined focus, especially travelers and adventurers.",
+                "hi": "सुरक्षा, साहस और अनुशासित एकाग्रता चाहने वाले लोग, विशेषकर यात्री और साहसिक कार्यों में लगे लोग।"
+            }
+        },
+        "12_mukhi": {
+            "name": {
+                "en": "12 Mukhi Rudraksha",
+                "hi": "बारह मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Sun",
+                "hi": "सूर्य"
+            },
+            "ruling_deity": {
+                "en": "Lord Surya (Sun God) / Dwadash Aditya",
+                "hi": "भगवान सूर्य / द्वादश आदित्य"
+            },
+            "chakra": {
+                "en": "Manipura & Sahasrara (combined)",
+                "hi": "मणिपुर एवं सहस्रार (संयुक्त)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Leo"
+                ],
+                "hi": [
+                    "सिंह राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Sunday",
+                "hi": "रविवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ क्रौं क्षौं रौं नमः",
+                "meaning_hi": "नेतृत्व और सत्ता के लिए सूर्य को समर्पित मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Gold or copper",
+                "hi": "सोना या तांबा"
+            },
+            "benefits": {
+                "leadership_power": {
+                    "en": "Amplifies leadership qualities, administrative skill, and personal magnetism, an alternate strengthener for a weak Sun alongside the 1 Mukhi.",
+                    "hi": "नेतृत्व गुणों, प्रशासनिक कौशल और व्यक्तिगत आकर्षण को बढ़ाता है; कमजोर सूर्य को मजबूत करने हेतु एक मुखी के साथ एक वैकल्पिक विकल्प।"
+                },
+                "health_vitality": {
+                    "en": "Supports heart health, bone strength, and overall vitality connected to Sun energy.",
+                    "hi": "सूर्य ऊर्जा से जुड़े हृदय स्वास्थ्य, हड्डियों की मजबूती और समग्र जीवनशक्ति को सहयोग देता है।"
+                },
+                "removes_self_doubt": {
+                    "en": "Helps overcome self-doubt and hesitation, encouraging bold action.",
+                    "hi": "आत्म-संदेह और झिझक को दूर करने में सहायक, साहसिक कार्यवाही को प्रोत्साहित करता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Politicians, administrators, and individuals seeking recognition and authority.",
+                "hi": "राजनेता, प्रशासक और मान्यता व सत्ता चाहने वाले व्यक्ति।"
+            }
+        },
+        "13_mukhi": {
+            "name": {
+                "en": "13 Mukhi Rudraksha",
+                "hi": "तेरह मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Venus",
+                "hi": "शुक्र"
+            },
+            "ruling_deity": {
+                "en": "Kamadeva (God of Love) / Indra",
+                "hi": "कामदेव / इंद्र"
+            },
+            "chakra": {
+                "en": "Svadhishthana - attraction aspect",
+                "hi": "स्वाधिष्ठान चक्र (आकर्षण पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Taurus",
+                    "Libra"
+                ],
+                "hi": [
+                    "वृषभ राशि",
+                    "तुला राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Friday",
+                "hi": "शुक्रवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ ह्रीं नमः",
+                "meaning_hi": "आकर्षण और वैभव प्रदान करने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Gold or silver",
+                "hi": "सोना या चांदी"
+            },
+            "benefits": {
+                "attraction_charisma": {
+                    "en": "Believed to enhance personal charm, attractiveness, and the ability to fulfill desires.",
+                    "hi": "व्यक्तिगत आकर्षण, सम्मोहन और इच्छाओं की पूर्ति की क्षमता को बढ़ाने वाला माना जाता है।"
+                },
+                "material_comfort": {
+                    "en": "Associated with luxury, prosperity, and fulfillment of worldly desires.",
+                    "hi": "विलासिता, समृद्धि और सांसारिक इच्छाओं की पूर्ति से जुड़ा हुआ।"
+                },
+                "relationships": {
+                    "en": "Supports romantic success and magnetism in social settings.",
+                    "hi": "प्रेम संबंधों में सफलता और सामाजिक परिवेश में आकर्षण को सहयोग देता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Those seeking charm, romantic success, or material fulfillment.",
+                "hi": "आकर्षण, प्रेम में सफलता या भौतिक इच्छाओं की पूर्ति चाहने वाले लोग।"
+            }
+        },
+        "14_mukhi": {
+            "name": {
+                "en": "14 Mukhi Rudraksha",
+                "hi": "चौदह मुखी रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Saturn (highest form)",
+                "hi": "शनि (उच्चतम स्वरूप)"
+            },
+            "ruling_deity": {
+                "en": "Lord Shiva as Hanuman's blessing form",
+                "hi": "भगवान शिव, हनुमान आशीर्वाद स्वरूप"
+            },
+            "chakra": {
+                "en": "Ajna & Sahasrara (advanced spiritual aspect)",
+                "hi": "आज्ञा एवं सहस्रार (उन्नत आध्यात्मिक पक्ष)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Capricorn",
+                    "Aquarius"
+                ],
+                "hi": [
+                    "मकर राशि",
+                    "कुंभ राशि"
+                ]
+            },
+            "wearing_day": {
+                "en": "Saturday",
+                "hi": "शनिवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ नमः शिवाय",
+                "meaning_hi": "अत्यंत दुर्लभ माना जाने वाला और उच्च आध्यात्मिक सुरक्षा देने वाला मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Gold",
+                "hi": "सोना"
+            },
+            "benefits": {
+                "intuition_third_eye": {
+                    "en": "Considered the most powerful mukhi for awakening intuition and the third eye, offering deep protection.",
+                    "hi": "अंतर्ज्ञान और तीसरी आँख को जागृत करने के लिए सबसे शक्तिशाली मुखी माना जाता है, जो गहन सुरक्षा प्रदान करता है।"
+                },
+                "removes_hidden_obstacles": {
+                    "en": "Believed to remove unseen and unexpected obstacles across all areas of life.",
+                    "hi": "जीवन के सभी क्षेत्रों में अदृश्य और अप्रत्याशित बाधाओं को दूर करने वाला माना जाता है।"
+                },
+                "decision_making": {
+                    "en": "Sharpens judgment and decision-making, particularly in difficult or ambiguous situations.",
+                    "hi": "विशेष रूप से कठिन या अस्पष्ट परिस्थितियों में निर्णय क्षमता को तीव्र करता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Advanced spiritual practitioners and those seeking maximum protection; considered rare and precious.",
+                "hi": "उन्नत आध्यात्मिक साधक और अधिकतम सुरक्षा चाहने वाले लोग; इसे अत्यंत दुर्लभ और बहुमूल्य माना जाता है।"
+            }
+        },
+        "gauri_shankar": {
+            "name": {
+                "en": "Gauri Shankar Rudraksha",
+                "hi": "गौरी शंकर रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Combined Shiva-Shakti energy (not a single planet)",
+                "hi": "शिव-शक्ति संयुक्त ऊर्जा (किसी एक ग्रह से संबद्ध नहीं)"
+            },
+            "ruling_deity": {
+                "en": "Shiva and Parvati (naturally joined bead)",
+                "hi": "शिव और पार्वती (प्राकृतिक रूप से जुड़ा हुआ मनका)"
+            },
+            "chakra": {
+                "en": "Anahata (Heart Chakra)",
+                "hi": "अनाहत चक्र"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Universally beneficial"
+                ],
+                "hi": [
+                    "सभी राशियों के लिए लाभकारी"
+                ]
+            },
+            "wearing_day": {
+                "en": "Monday",
+                "hi": "सोमवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ नमः शिवाय पार्वतीपतये",
+                "meaning_hi": "दांपत्य सामंजस्य के लिए शिव-पार्वती को समर्पित मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Silver",
+                "hi": "चांदी"
+            },
+            "benefits": {
+                "marital_harmony": {
+                    "en": "Naturally formed from two joined beads representing Shiva and Parvati; believed to strengthen marital bonds and mutual understanding between couples.",
+                    "hi": "दो प्राकृतिक रूप से जुड़े मनकों से निर्मित, जो शिव और पार्वती का प्रतिनिधित्व करते हैं; दांपत्य संबंध और आपसी समझ को मजबूत करने वाला माना जाता है।"
+                },
+                "family_unity": {
+                    "en": "Promotes togetherness and reduces discord within families.",
+                    "hi": "परिवार में एकता को बढ़ावा देता है और कलह को कम करता है।"
+                },
+                "spiritual_balance": {
+                    "en": "Believed to balance masculine and feminine energies within the wearer, aiding overall inner harmony.",
+                    "hi": "धारक के भीतर पुरुष और स्त्री ऊर्जाओं को संतुलित करने वाला माना जाता है, जो समग्र आंतरिक सामंजस्य में सहायक है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Married couples, families seeking unity, and those looking to attract a life partner.",
+                "hi": "विवाहित जोड़े, एकता चाहने वाले परिवार और जीवनसाथी को आकर्षित करने के इच्छुक लोग।"
+            }
+        },
+        "ganesh_rudraksha": {
+            "name": {
+                "en": "Ganesh Rudraksha",
+                "hi": "गणेश रुद्राक्ष"
+            },
+            "ruling_planet": {
+                "en": "Not planet-specific; a naturally auspicious form",
+                "hi": "किसी विशेष ग्रह से संबद्ध नहीं; एक प्राकृतिक शुभ स्वरूप"
+            },
+            "ruling_deity": {
+                "en": "Lord Ganesha (bead naturally shows a trunk-like protrusion)",
+                "hi": "भगवान गणेश (मनके में प्राकृतिक रूप से सूंड जैसी आकृति होती है)"
+            },
+            "chakra": {
+                "en": "Muladhara (Root Chakra) - obstacle removal",
+                "hi": "मूलाधार चक्र (बाधा निवारण)"
+            },
+            "zodiac_signs": {
+                "en": [
+                    "Universally beneficial"
+                ],
+                "hi": [
+                    "सभी राशियों के लिए लाभकारी"
+                ]
+            },
+            "wearing_day": {
+                "en": "Wednesday",
+                "hi": "बुधवार"
+            },
+            "mantra": {
+                "sanskrit": "ॐ गं गणपतये नमः",
+                "meaning_hi": "विघ्नहर्ता गणेश जी को समर्पित मंत्र"
+            },
+            "recommended_metal": {
+                "en": "Gold or silver",
+                "hi": "सोना या चांदी"
+            },
+            "benefits": {
+                "obstacle_removal": {
+                    "en": "Believed to remove obstacles in new beginnings, ventures, and important undertakings, in line with Lord Ganesha's role as remover of obstacles.",
+                    "hi": "भगवान गणेश की विघ्नहर्ता भूमिका के अनुरूप, नई शुरुआतों, कार्यों और महत्वपूर्ण उपक्रमों में आने वाली बाधाओं को दूर करने वाला माना जाता है।"
+                },
+                "wisdom_prosperity": {
+                    "en": "Associated with wisdom, prudence, and prosperity in business and academic pursuits.",
+                    "hi": "व्यापार और शैक्षणिक कार्यों में बुद्धि, विवेक और समृद्धि से जुड़ा हुआ।"
+                },
+                "auspicious_beginnings": {
+                    "en": "Commonly worn or kept while starting new projects, businesses, or ceremonies for good fortune.",
+                    "hi": "नई परियोजनाओं, व्यवसायों या समारोहों की शुरुआत में शुभता के लिए सामान्यतः धारण या रखा जाता है।"
+                }
+            },
+            "who_should_wear": {
+                "en": "Entrepreneurs, students starting new academic ventures, and those beginning important life projects.",
+                "hi": "उद्यमी, नई शैक्षणिक यात्रा शुरू करने वाले विद्यार्थी और महत्वपूर्ण जीवन परियोजनाएं आरंभ करने वाले लोग।"
+            }
+        }
+    },
+    "planetary_mapping": {
+        "Sun": {
+            "en": "Sun",
+            "hi": "सूर्य",
+            "rudraksha_numbers": [
+                1,
+                12
+            ]
+        },
+        "Moon": {
+            "en": "Moon",
+            "hi": "चंद्रमा",
+            "rudraksha_numbers": [
+                2
+            ]
+        },
+        "Mars": {
+            "en": "Mars",
+            "hi": "मंगल",
+            "rudraksha_numbers": [
+                3
+            ]
+        },
+        "Mercury": {
+            "en": "Mercury",
+            "hi": "बुध",
+            "rudraksha_numbers": [
+                4
+            ]
+        },
+        "Jupiter": {
+            "en": "Jupiter",
+            "hi": "बृहस्पति",
+            "rudraksha_numbers": [
+                5
+            ]
+        },
+        "Venus": {
+            "en": "Venus",
+            "hi": "शुक्र",
+            "rudraksha_numbers": [
+                6,
+                13
+            ]
+        },
+        "Saturn": {
+            "en": "Saturn",
+            "hi": "शनि",
+            "rudraksha_numbers": [
+                7,
+                14
+            ]
+        },
+        "Rahu": {
+            "en": "Rahu",
+            "hi": "राहु",
+            "rudraksha_numbers": [
+                8
+            ]
+        },
+        "Ketu": {
+            "en": "Ketu",
+            "hi": "केतु",
+            "rudraksha_numbers": [
+                9
+            ]
+        },
+        "Universal": {
+            "en": "All Navagraha / Universal",
+            "hi": "सभी नवग्रह / सार्वभौमिक",
+            "rudraksha_numbers": [
+                10
+            ]
+        }
+    },
+    "special_combinations": {
+        "gauri_shankar": {
+            "name": {
+                "en": "Gauri Shankar Rudraksha",
+                "hi": "गौरी शंकर रुद्राक्ष"
+            },
+            "note": {
+                "en": "A naturally joined double bead, not classified by mukhi count. See detailed entry above.",
+                "hi": "एक प्राकृतिक रूप से जुड़ा हुआ दोहरा मनका, जिसे मुखी संख्या के आधार पर वर्गीकृत नहीं किया जाता। विस्तृत जानकारी ऊपर उपलब्ध है।"
+            }
+        },
+        "ganesh_rudraksha": {
+            "name": {
+                "en": "Ganesh Rudraksha",
+                "hi": "गणेश रुद्राक्ष"
+            },
+            "note": {
+                "en": "A naturally formed bead with a trunk-like protrusion, considered auspicious independent of mukhi classification.",
+                "hi": "सूंड जैसी प्राकृतिक आकृति वाला मनका, जिसे मुखी वर्गीकरण से स्वतंत्र रूप से शुभ माना जाता है।"
+            }
+        }
+    }
+}

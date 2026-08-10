@@ -1,0 +1,1713 @@
+[
+    {
+        "name": "Ashwini,अश्विनी",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Arts",
+                        "Literature",
+                        "Music & Fine Arts",
+                        "Humanities",
+                        "Creative Writing"
+                    ],
+                    "potentialProfessions": [
+                        "Writer / Author",
+                        "Artist / Musician",
+                        "Creative Professional",
+                        "Honest Business & Corporate Roles"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "कला",
+                        "साहित्य",
+                        "संगीत और ललित कला",
+                        "मानविकी",
+                        "रचनात्मक लेखन"
+                    ],
+                    "potentialProfessions": [
+                        "लेखक / लेखक",
+                        "कलाकार / संगीतकार",
+                        "रचनात्मक पेशेवर",
+                        "ईमानदार व्यापार और कॉर्पोरेट भूमिकाएं"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Public Administration",
+                        "Political Science",
+                        "Social Work",
+                        "Law / Legal Studies",
+                        "Commerce & Finance"
+                    ],
+                    "potentialProfessions": [
+                        "Civil Services (IAS / PCS)",
+                        "Administrative Officer",
+                        "Social Worker / Philanthropist",
+                        "Corporate Professional / Independent Business Owner"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "लोक प्रशासन",
+                        "राजनीति विज्ञान",
+                        "समाज कार्य",
+                        "कानून और कानूनी अध्ययन",
+                        "वाणिज्य और वित्त"
+                    ],
+                    "potentialProfessions": [
+                        "सिविल सेवा (आईएएस / पीसीएस)",
+                        "प्रशासनिक अधिकारी",
+                        "समाज सेवक / परोपकारी",
+                        "कॉर्पोरेट पेशेवर / स्वतंत्र व्यापार मालिक"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Bharani,भरणी",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Administration & Management",
+                        "Law & Legal Studies",
+                        "Agriculture",
+                        "Commerce & Business",
+                        "Arts & Literature"
+                    ],
+                    "potentialProfessions": [
+                        "Surgeon",
+                        "Judge / Lawyer",
+                        "Writer / Author",
+                        "Administrator / Manager",
+                        "Businessman / Industrialist"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "प्रशासन और प्रबंधन",
+                        "कानून और कानूनी अध्ययन",
+                        "कृषि",
+                        "वाणिज्य और व्यापार",
+                        "कला और साहित्य"
+                    ],
+                    "potentialProfessions": [
+                        "सर्जन",
+                        "न्यायाधीश / वकील",
+                        "लेखक / लेखक",
+                        "प्रबंधक / प्रबंधक",
+                        "व्यापारी / उद्योगपति"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Vocational & Professional Education",
+                        "Commerce & Business",
+                        "Fashion & Modeling",
+                        "Hospitality & Tourism",
+                        "Arts & Technical Subjects"
+                    ],
+                    "potentialProfessions": [
+                        "Receptionist / Tour Guide",
+                        "Sales Officer",
+                        "Business / Enterprise Owner",
+                        "Fashion or Entertainment Professional"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "व्यावसायिक और पेशेवर शिक्षा",
+                        "वाणिज्य और व्यापार",
+                        "फैशन और मॉडलिंग",
+                        "आतिथ्य और पर्यटन",
+                        "कला और तकनीकी विषय"
+                    ],
+                    "potentialProfessions": [
+                        "रिसेप्शनिस्ट / टूर गाइड",
+                        "बिक्री अधिकारी",
+                        "व्यापार / उद्यम मालिक",
+                        "फैशन या मनोरंजन पेशेवर"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Krittika,कृतिका",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Engineering",
+                        "Medicine",
+                        "Banking & Finance",
+                        "Revenue Administration",
+                        "Industrial Management"
+                    ],
+                    "potentialProfessions": [
+                        "Engineer / Medical Specialist",
+                        "Government / Treasury Officer",
+                        "Consultant / Business Owner"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "इंजीनियरिंग",
+                        "चिकित्सा",
+                        "बैंकिंग और वित्त",
+                        "राजस्व प्रशासन",
+                        "औद्योगिक प्रबंधन"
+                    ],
+                    "potentialProfessions": [
+                        "इंजीनियर / चिकित्सा विशेषज्ञ",
+                        "सरकारी / कोषाधिकारी",
+                        "सलाहकार / व्यापार मालिक"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Agriculture & Allied Sciences",
+                        "Higher Education / Competitive Exams",
+                        "Law & Medicine",
+                        "Architecture & Fashion Design"
+                    ],
+                    "potentialProfessions": [
+                        "Senior Administrative Officer",
+                        "Lawyer / Doctor / Engineer",
+                        "Teacher / Designer",
+                        "Agricultural / Small Industry Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "कृषि और संबंधित विज्ञान",
+                        "उच्च शिक्षा / प्रतियोगी परीक्षाएं",
+                        "कानून और चिकित्सा",
+                        "वास्तुकला और फैशन डिज़ाइन"
+                    ],
+                    "potentialProfessions": [
+                        "वरिष्ठ प्रशासनिक अधिकारी",
+                        "वकील / डॉक्टर / इंजीनियर",
+                        "शिक्षक / डिजाइनर",
+                        "कृषि / लघु उद्योग उद्यमी"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Rohini,रोहिणी",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Chemical Engineering",
+                        "Technical & Labor-Intensive Disciplines",
+                        "Dairy & Agricultural Sciences"
+                    ],
+                    "potentialProfessions": [
+                        "Chemical Engineer",
+                        "Dairy / Agricultural Business Owner",
+                        "Technical Professional"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "रासायनिक इंजीनियरिंग",
+                        "तकनीकी और श्रम-प्रधान विषय",
+                        "डेयरी और कृषि विज्ञान"
+                    ],
+                    "potentialProfessions": [
+                        "रासायनिक इंजीनियर",
+                        "डेयरी / कृषि व्यापार मालिक",
+                        "तकनीकी पेशेवर"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Nursing & Healthcare",
+                        "Hotel Management",
+                        "Textile Design & Home Economics",
+                        "Communications"
+                    ],
+                    "potentialProfessions": [
+                        "Nurse / Healthcare Professional",
+                        "Hotel Manager",
+                        "Fashion Designer / Tailoring Specialist",
+                        "Dairy/Oil Business Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "नर्सिंग और स्वास्थ्य सेवा",
+                        "होटल प्रबंधन",
+                        "टेक्सटाइल डिज़ाइन और गृह विज्ञान",
+                        "संचार"
+                    ],
+                    "potentialProfessions": [
+                        "नर्स / स्वास्थ्य सेवा पेशेवर",
+                        "होटल प्रबंधक",
+                        "फैशन डिजाइनर / सिलाई विशेषज्ञ",
+                        "डेयरी/तेल व्यापार उद्यमी"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Mrigashira,मृगशिरा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Graduate Studies / Commerce",
+                        "Accounting & Financial Management",
+                        "Business Administration"
+                    ],
+                    "potentialProfessions": [
+                        "Sales Professional",
+                        "Accounting / Administrative Expert",
+                        "Financial Advisor"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "स्नातक अध्ययन / वाणिज्य",
+                        "लेखा और वित्तीय प्रबंधन",
+                        "व्यापार प्रशासन"
+                    ],
+                    "potentialProfessions": [
+                        "बिक्री पेशेवर",
+                        "लेखा / प्रशासनिक विशेषज्ञ",
+                        "वित्तीय सलाहकार"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Computer Science & IT",
+                        "Mechanical & Electrical Engineering",
+                        "Office Administration & Marketing",
+                        "Science & Technical Education"
+                    ],
+                    "potentialProfessions": [
+                        "Software / IT Professional",
+                        "Mechanical or Electrical Engineer",
+                        "Marketing & Sales Executive",
+                        "Police Officer / Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "कंप्यूटर विज्ञान और आईटी",
+                        "मैकेनिकल और इलेक्ट्रिकल इंजीनियरिंग",
+                        "कार्यालय प्रशासन और विपणन",
+                        "विज्ञान और तकनीकी शिक्षा"
+                    ],
+                    "potentialProfessions": [
+                        "सॉफ्टवेयर / आईटी पेशेवर",
+                        "मैकेनिकल या इलेक्ट्रिकल इंजीनियर",
+                        "विपणन और बिक्री कार्यकारी",
+                        "पुलिस अधिकारी / उद्यमी"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Ardra,अर्द्रा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Research Methodologies",
+                        "Accounting & Finance",
+                        "Logistics & Planning",
+                        "Cinematography / Photography"
+                    ],
+                    "potentialProfessions": [
+                        "Researcher / Analyst",
+                        "Accountant / Planner",
+                        "Transportation / Logistics Manager",
+                        "Cinematographer / Photographer"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "शोध पद्धतियां",
+                        "लेखा और वित्त",
+                        "लॉजिस्टिक्स और योजना",
+                        "छायांकन / फोटोग्राफी"
+                    ],
+                    "potentialProfessions": [
+                        "शोधकर्ता / विश्लेषक",
+                        "लेखाकार / योजनाकार",
+                        "परिवहन / लॉजिस्टिक्स प्रबंधक",
+                        "छायाकार / फोटोग्राफर"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Science & Mathematics",
+                        "Accounting & Finance",
+                        "Electronics & Telecommunication",
+                        "Fine Arts & Drawing"
+                    ],
+                    "potentialProfessions": [
+                        "Scientist / Mathematician",
+                        "Accountant / Auditor",
+                        "Electronics / Media Professional (Cinema/TV)",
+                        "Nurse / Surveyor"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "विज्ञान और गणित",
+                        "लेखा और वित्त",
+                        "इलेक्ट्रॉनिक्स और दूरसंचार",
+                        "ललित कला और चित्रकला"
+                    ],
+                    "potentialProfessions": [
+                        "वैज्ञानिक / गणितज्ञ",
+                        "लेखाकार / ऑडिटर",
+                        "इलेक्ट्रॉनिक्स / मीडिया पेशेवर (सिनेमा/टीवी)",
+                        "नर्स / सर्वेक्षक"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Punarvasu,पुनर्वसु",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Education & Teaching",
+                        "Literature & Writing",
+                        "Medical & Ayurvedic Sciences",
+                        "Acting & Performing Arts"
+                    ],
+                    "potentialProfessions": [
+                        "Teacher / Professor",
+                        "Actor / Writer",
+                        "Physician / Doctor",
+                        "Independent Professional"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "शिक्षा और शिक्षण",
+                        "साहित्य और लेखन",
+                        "चिकित्सा और आयुर्वेदिक विज्ञान",
+                        "अभिनंदन और प्रदर्शन कला"
+                    ],
+                    "potentialProfessions": [
+                        "शिक्षक / प्रोफेसर",
+                        "अभिनेता / लेखक",
+                        "चिकित्सक / डॉक्टर",
+                        "स्वतंत्र पेशेवर"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Music & Classical Arts",
+                        "Dance & Performing Arts",
+                        "Fine Arts & Culture"
+                    ],
+                    "potentialProfessions": [
+                        "Professional Dancer",
+                        "Musician / Artist",
+                        "Arts Educator"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "संगीत और शास्त्रीय कला",
+                        "नृत्य और प्रदर्शन कला",
+                        "ललित कला और संस्कृति"
+                    ],
+                    "potentialProfessions": [
+                        "पेशेवर नर्तक",
+                        "संगीतकार / कलाकार",
+                        "कला शिक्षक"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Pushya,पुष्य",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Mathematics & Science",
+                        "Engineering & Technology",
+                        "Public Administration",
+                        "Business & Commerce"
+                    ],
+                    "potentialProfessions": [
+                        "Actor / Media Producer",
+                        "Politician / Administrator",
+                        "Industrialist / Contractor",
+                        "Publisher / Transporter"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "गणित और विज्ञान",
+                        "इंजीनियरिंग और प्रौद्योगिकी",
+                        "लोक प्रशासन",
+                        "व्यापार और वाणिज्य"
+                    ],
+                    "potentialProfessions": [
+                        "अभिनेता / मीडिया निर्माता",
+                        "राजनेता / प्रशासक",
+                        "उद्योगपति / ठेकेदार",
+                        "प्रकाशक / ट्रांसपोर्टर"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Vocational Training & Handicrafts",
+                        "Agriculture & Horticulture",
+                        "Nursing & Paramedical Studies",
+                        "Secretarial & Office Management"
+                    ],
+                    "potentialProfessions": [
+                        "Personal Secretary / Officer",
+                        "Nurse / Paramedical Professional",
+                        "Social Worker / Teacher",
+                        "Administrative Clerk / Manager"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "व्यावसायिक प्रशिक्षण और हस्तशिल्प",
+                        "कृषि और बागवानी",
+                        "नर्सिंग और पैरामेडिकल अध्ययन",
+                        "सचिवालय और कार्यालय प्रबंधन"
+                    ],
+                    "potentialProfessions": [
+                        "निजी सचिव / अधिकारी",
+                        "नर्स / पैरामेडिकल पेशेवर",
+                        "समाज सेवक / शिक्षक",
+                        "प्रशासनिक लिपिक / प्रबंधक"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Ashlesha,आश्लेषा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Arts, Commerce & Science",
+                        "Public Administration & Accounts",
+                        "Business Management"
+                    ],
+                    "potentialProfessions": [
+                        "Accounts / Stores Officer (Govt/Defense)",
+                        "Accountant / Auditor",
+                        "Sales Agent / Broker",
+                        "Liquid Business Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "कला, वाणिज्य और विज्ञान",
+                        "लोक प्रशासन और लेखा",
+                        "व्यापार प्रबंधन"
+                    ],
+                    "potentialProfessions": [
+                        "लेखा / स्टोर अधिकारी (सरकार/रक्षा)",
+                        "लेखाकार / ऑडिटर",
+                        "बिक्री एजेंट / दलाल",
+                        "तरल व्यापार उद्यमी"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Office Administration & Shorthand",
+                        "Communications & Writing",
+                        "Agriculture & Dairy Science"
+                    ],
+                    "potentialProfessions": [
+                        "Office Manager / Secretary",
+                        "Writer / Communications Specialist",
+                        "Fish Farming / Dairy Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "कार्यालय प्रशासन और आशुलिपि",
+                        "संचार और लेखन",
+                        "कृषि और डेयरी विज्ञान"
+                    ],
+                    "potentialProfessions": [
+                        "कार्यालय प्रबंधक / सचिव",
+                        "लेखक / संचार विशेषज्ञ",
+                        "मछली पालन / डेयरी उद्यमी"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Magha,मघा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Business Management & Administration",
+                        "Human Resources & Coordination",
+                        "Commerce & General Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Corporate Manager / Coordinator",
+                        "Administrative Professional",
+                        "Independent Business Owner"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "बिज़नेस मैनेजमेंट और एडमिनिस्ट्रेशन",
+                        "मानव संसाधन और समन्वय",
+                        "वाणिज्य और सामान्य अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "कॉर्पोरेट प्रबंधक / समन्वयक",
+                        "प्रशासनिक पेशेवर",
+                        "स्वतंत्र व्यापार मालिक"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Public Administration & Law",
+                        "Medical & Healthcare Sciences",
+                        "Higher Academic Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Senior Government Officer / IAS",
+                        "Doctor / Medical Specialist",
+                        "Lawyer / Legal Expert"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "लोक प्रशासन और कानून",
+                        "चिकित्सा और स्वास्थ्य सेवा विज्ञान",
+                        "उच्च शैक्षणिक अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "वरिष्ठ सरकारी अधिकारी / आईएएस",
+                        "डॉक्टर / चिकित्सा विशेषज्ञ",
+                        "वकील / कानूनी विशेषज्ञ"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Purva_Phalguni,पूर्वाफाल्गुनी",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Independent Professional Studies",
+                        "Management & Leadership",
+                        "Public Administration"
+                    ],
+                    "potentialProfessions": [
+                        "Independent Business Owner / Entrepreneur",
+                        "Authoritative Official / Leader",
+                        "Consultant / Specialist"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "स्वतंत्र व्यावसायिक अध्ययन",
+                        "प्रबंधन और नेतृत्व",
+                        "लोक प्रशासन"
+                    ],
+                    "potentialProfessions": [
+                        "बिज़नेस के मालिक / उद्यमी",
+                        "आधिकारिक अधिकारी / नेता",
+                        "सलाहकार / विशेषज्ञ"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Arts & Sciences",
+                        "Literature & Creative Writing",
+                        "Drama & Fine Arts",
+                        "Education & Teaching"
+                    ],
+                    "potentialProfessions": [
+                        "Teacher / Professor",
+                        "Writer / Author",
+                        "Drama / Theatre Artist",
+                        "Creative Professional"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "कला और विज्ञान",
+                        "साहित्य और रचनात्मक लेखन",
+                        "नाटक और ललित कला",
+                        "शिक्षा और शिक्षण"
+                    ],
+                    "potentialProfessions": [
+                        "शिक्षक / प्रोफेसर",
+                        "लेखक / लेखक",
+                        "नाटक / रंगमंच कलाकार",
+                        "रचनात्मक पेशेवर"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Uttara_Phalguni,उत्तराफाल्गुनी",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Mathematics & Engineering",
+                        "Science & Research",
+                        "Public Relations & Communications",
+                        "Astrology & Specialized Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Writer / Researcher",
+                        "Teacher / Professor",
+                        "Mathematician / Engineer",
+                        "Advertising Professional / Astrologer"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "गणित और इंजीनियरिंग",
+                        "विज्ञान और अनुसंधान",
+                        "जनसंपर्क और संचार",
+                        "ज्योतिष और विशेष अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "लेखक / शोधकर्ता",
+                        "शिक्षक / प्रोफेसर",
+                        "गणितज्ञ / इंजीनियर",
+                        "विज्ञापन पेशेवर / ज्योतिषी"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Science & Education",
+                        "Hospital Administration & Healthcare",
+                        "Interior Design & Fine Arts"
+                    ],
+                    "potentialProfessions": [
+                        "Teacher / Educator",
+                        "Healthcare Professional / Doctor",
+                        "Interior Designer / Decorator",
+                        "Actor / Model"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "विज्ञान और शिक्षा",
+                        "अस्पताल प्रशासन और स्वास्थ्य सेवा",
+                        "इंटीरियर डिज़ाइन और ललित कला"
+                    ],
+                    "potentialProfessions": [
+                        "Teacher / Educator",
+                        "स्वास्थ्य सेवा पेशेवर / डॉक्टर",
+                        "इंटीरियर डिजाइनर / सजावटकर्ता",
+                        "अभिनेता / मॉडल"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Hasta,हस्त",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Business Management & Administration",
+                        "Industrial Manufacturing & Production",
+                        "Arts & Creative Crafts"
+                    ],
+                    "potentialProfessions": [
+                        "Business Owner / Industrialist",
+                        "Management Professional",
+                        "Consultant / Advisor"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "Business Management & Administration",
+                        "औद्योगिक विनिर्माण और उत्पादन",
+                        "कला और रचनात्मक शिल्प"
+                    ],
+                    "potentialProfessions": [
+                        "व्यापार मालिक / उद्योगपति",
+                        "प्रबंधन पेशेवर",
+                        "सलाहकार / सलाहकार"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Higher Education & Professional Training",
+                        "Textile & Handloom Craft",
+                        "Secretarial & Stenography"
+                    ],
+                    "potentialProfessions": [
+                        "Skilled Artisan / Handicraft Expert",
+                        "Clerical & Administrative Staff",
+                        "Textile / Agriculture Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "उच्च शिक्षा और पेशेवर प्रशिक्षण",
+                        "टेक्सटाइल और हथकरघा शिल्प",
+                        "सचिवालय और आशुलिपि"
+                    ],
+                    "potentialProfessions": [
+                        "कुशल कारीगर / हस्तशिल्प विशेषज्ञ",
+                        "लिपिकीय और प्रशासनिक कर्मचारी",
+                        "टेक्सटाइल / कृषि उद्यमी"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Chitra,चित्रा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Sculpture, Painting & Fine Arts",
+                        "Engineering & Computer Science",
+                        "Police & Military Science",
+                        "Business Administration"
+                    ],
+                    "potentialProfessions": [
+                        "Engineer / IT Specialist",
+                        "Police or Military Officer",
+                        "Manager / Administrator",
+                        "Artist / Sculptor"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "मूर्तिकला, चित्रकला और ललित कला",
+                        "इंजीनियरिंग और कंप्यूटर विज्ञान",
+                        "पुलिस और सैन्य विज्ञान",
+                        "व्यापार प्रशासन"
+                    ],
+                    "potentialProfessions": [
+                        "इंजीनियर / आईटी विशेषज्ञ",
+                        "पुलिस या सैन्य अधिकारी",
+                        "प्रबंधक / प्रशासक",
+                        "कलाकार / मूर्तिकार"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Science & Technology",
+                        "Performing Arts & Drama",
+                        "Media & Modelling Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Model / Actor / Media Professional",
+                        "Police Officer",
+                        "Scientist / Technical Professional",
+                        "Agricultural / Craft Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "विज्ञान और प्रौद्योगिकी",
+                        "प्रदर्शन कला और नाटक",
+                        "मीडिया और मॉडलिंग अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "मॉडल / अभिनेता / मीडिया पेशेवर",
+                        "पुलिस अधिकारी",
+                        "वैज्ञानिक / तकनीकी पेशेवर",
+                        "कृषि / शिल्प उद्यमी"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Swati,स्वाती",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Marketing & Commerce",
+                        "Engineering & Chemical Sciences",
+                        "Media, Film & Photography",
+                        "Astrology & Translation"
+                    ],
+                    "potentialProfessions": [
+                        "Business Owner / Marketer",
+                        "Engineer / Technical Specialist",
+                        "Media / Film Professional",
+                        "Precious Metals / Jewelry Trader"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "विपणन और वाणिज्य",
+                        "इंजीनियरिंग और रासायनिक विज्ञान",
+                        "मीडिया, फिल्म और फोटोग्राफी",
+                        "ज्योतिष और अनुवाद"
+                    ],
+                    "potentialProfessions": [
+                        "व्यापार मालिक / विपणनकर्ता",
+                        "इंजीनियर / तकनीकी विशेषज्ञ",
+                        "मीडिया / फिल्म पेशेवर",
+                        "कीमती धातु / आभूषण व्यापारी"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Higher Professional Education",
+                        "Science & Technology",
+                        "Management & Corporate Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Corporate Executive / Professional",
+                        "Travel / Aviation Specialist",
+                        "Media / Night-Duty Professional"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "उच्च पेशेवर शिक्षा",
+                        "विज्ञान और प्रौद्योगिकी",
+                        "प्रबंधन और कॉर्पोरेट अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "कॉर्पोरेट कार्यकारी / पेशेवर",
+                        "यात्रा / विमानन विशेषज्ञ",
+                        "मीडिया / रात्रि-ड्यूटी पेशेवर"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Vishakha,विशाखा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Law & Legal Studies",
+                        "Mathematics & Science",
+                        "Banking & Finance",
+                        "Publishing & Advertising",
+                        "Education & Teaching"
+                    ],
+                    "potentialProfessions": [
+                        "Politician / Public Speaker",
+                        "Banker / Stock Broker",
+                        "Educator / Professor",
+                        "Business Owner / Industrialist"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "Law & Legal Studies",
+                        "गणित और विज्ञान",
+                        "बैंकिंग और वित्त",
+                        "प्रकाशन और विज्ञापन",
+                        "शिक्षा और शिक्षण"
+                    ],
+                    "potentialProfessions": [
+                        "राजनेता / सार्वजनिक वक्ता",
+                        "बैंकर / स्टॉक ब्रोकर",
+                        "शिक्षक / प्रोफेसर",
+                        "व्यापार मालिक / उद्योगपति"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Music & Classical Arts",
+                        "Literature & Poetry",
+                        "Science Writing & Technology",
+                        "Fine Arts"
+                    ],
+                    "potentialProfessions": [
+                        "Writer / Scientific Author",
+                        "Musician / Artist",
+                        "Literature Specialist / Educator"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "संगीत और शास्त्रीय कला",
+                        "साहित्य और कविता",
+                        "विज्ञान लेखन और प्रौद्योगिकी",
+                        "ललित कला"
+                    ],
+                    "potentialProfessions": [
+                        "लेखक / वैज्ञानिक लेखक",
+                        "संगीतकार / कलाकार",
+                        "साहित्य विशेषज्ञ / शिक्षक"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Anuradha,अनुराधा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Engineering & Technology",
+                        "Medical & Pharmaceutical Sciences",
+                        "Business Management & Contracting",
+                        "Chemical Sciences"
+                    ],
+                    "potentialProfessions": [
+                        "Engineer / Doctor",
+                        "Industrialist / Contractor",
+                        "Pharmaceutical Business Owner",
+                        "Corporate Professional"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "इंजीनियरिंग और प्रौद्योगिकी",
+                        "चिकित्सा और औषधीय विज्ञान",
+                        "व्यापार प्रबंधन और ठेकेदारी",
+                        "रासायनिक विज्ञान"
+                    ],
+                    "potentialProfessions": [
+                        "इंजीनियर / डॉक्टर",
+                        "उद्योगपति / ठेकेदार",
+                        "फार्मास्युटिकल व्यापार मालिक",
+                        "कॉर्पोरेट पेशेवर"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Science & Technology",
+                        "Literature & Languages",
+                        "Performing Arts & Music",
+                        "Vocational & Professional Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Actor / Dancer / Musician",
+                        "Media / Radio / TV Professional",
+                        "Scientist / Technologist",
+                        "Corporate / Institutional Leader"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "विज्ञान और प्रौद्योगिकी",
+                        "साहित्य और भाषाएं",
+                        "प्रदर्शन कला और संगीत",
+                        "व्यावसायिक और पेशेवर अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "अभिनेता / नर्तक / संगीतकार",
+                        "मीडिया / रेडियो / टीवी पेशेवर",
+                        "वैज्ञानिक / टेक्नोलॉजिस्ट",
+                        "कॉर्पोरेट / संस्थागत नेता"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Jyeshtha,ज्येष्ठा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Business & Management",
+                        "Technical & Practical Training",
+                        "Commerce & Administration",
+                        "Sciences Related Feilds"
+                    ],
+                    "potentialProfessions": [
+                        "Corporate Professional / Manager",
+                        "Business Owner ",
+                        "Entrepreneur",
+                        "Administrative ",
+                        "Technical Expert"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "व्यापार और प्रबंधन",
+                        "तकनीकी और व्यावहारिक प्रशिक्षण",
+                        "वाणिज्य और प्रशासन",
+                        "विज्ञान संबंधित क्षेत्र"
+                    ],
+                    "potentialProfessions": [
+                        "कॉर्पोरेट पेशेवर / प्रबंधक",
+                        "व्यापार मालिक",
+                        "उद्यमी",
+                        "प्रशासनिक",
+                        "तकनीकी विशेषज्ञ"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Culinary Arts & Home Economics",
+                        "Sales & Accounting",
+                        "Machinery & Equipment Handling",
+                        "Practical Vocational Education"
+                    ],
+                    "potentialProfessions": [
+                        "Culinary / Hospitality Professional",
+                        "Sales & Accounting Executive",
+                        "Small Business Owner / Homemaker Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "पाक कला और गृह विज्ञान",
+                        "बिक्री और लेखा",
+                        "मशीनरी और उपकरण संचालन",
+                        "व्यावहारिक व्यावसायिक शिक्षा"
+                    ],
+                    "potentialProfessions": [
+                        "पाक कला / आतिथ्य पेशेवर",
+                        "बिक्री और लेखा कार्यकारी",
+                        "छोटा व्यापार मालिक / गृहिणी उद्यमी"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Mula,मूल",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Financial Consulting & Management",
+                        "Medical & Healthcare Sciences",
+                        "Research & Investigation",
+                        "Literature, Art & Teaching"
+                    ],
+                    "potentialProfessions": [
+                        "Financial Advisor / Consultant",
+                        "Medical Practitioner / Doctor",
+                        "Researcher / Scientist",
+                        "Writer / Teacher / Social Worker"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "वित्तीय परामर्श और प्रबंधन",
+                        "चिकित्सा और स्वास्थ्य सेवा विज्ञान",
+                        "अनुसंधान और जांच",
+                        "साहित्य, कला और शिक्षण"
+                    ],
+                    "potentialProfessions": [
+                        "वित्तीय सलाहकार / सलाहकार",
+                        "चिकित्सक / डॉक्टर",
+                        "शोधकर्ता / वैज्ञानिक",
+                        "लेखक / शिक्षक / समाज सेवक"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Higher Academic & Scientific Studies",
+                        "Medical Sciences",
+                        "Languages & Literature",
+                        "Business & Entrepreneurship"
+                    ],
+                    "potentialProfessions": [
+                        "Business Owner / Entrepreneur",
+                        "Medical Professional / Doctor",
+                        "Academic / Researcher",
+                        "Author / Language Specialist"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "उच्च अकादमिक और वैज्ञानिक अध्ययन",
+                        "चिकित्सा विज्ञान",
+                        "भाषाएं और साहित्य",
+                        "व्यापार और उद्यमिता"
+                    ],
+                    "potentialProfessions": [
+                        "बिज़नेस के मालिक / उद्यमी",
+                        "चिकित्सा पेशेवर / डॉक्टर",
+                        "अकादमिक / शोधकर्ता",
+                        "लेखक / भाषा विशेषज्ञ"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Purva_Ashadha,पूर्वाषाढ़ा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Medical Sciences",
+                        "Arts & Knowledge-Based Disciplines",
+                        "Spiritual & Occult Studies",
+                        "Research Methodology"
+                    ],
+                    "potentialProfessions": [
+                        "Doctor / Medical Specialist",
+                        "Researcher / Scientist",
+                        "Spiritual Guide / Consultant",
+                        "Artist / Creative Professional"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "चिकित्सा विज्ञान",
+                        "कला और ज्ञान-आधारित विषय",
+                        "आध्यात्मिक और गुप्त अध्ययन",
+                        "शोध पद्धति"
+                    ],
+                    "potentialProfessions": [
+                        "डॉक्टर / चिकित्सा विशेषज्ञ",
+                        "शोधकर्ता / वैज्ञानिक",
+                        "आध्यात्मिक मार्गदर्शक / सलाहकार",
+                        "कलाकार / रचनात्मक पेशेवर"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Education & Teaching",
+                        "Banking & Commerce",
+                        "Publishing, Editing & Journalism",
+                        "Social & Religious Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Teacher / Professor",
+                        "Banker / Administrator",
+                        "Writer / Editor / Publisher",
+                        "Social Worker / Organizer"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "शिक्षा और शिक्षण",
+                        "Banking & Commerce",
+                        "प्रकाशन, संपादन और पत्रकारिता",
+                        "सामाजिक और धार्मिक अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "शिक्षक / प्रोफेसर",
+                        "बैंकर / प्रशासक",
+                        "लेखक / संपादक / प्रकाशक",
+                        "समाज सेवक / आयोजक"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Uttara_Ashadha,उत्तराषाढ़ा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Law & Legal Studies",
+                        "Public Administration & Management",
+                        "Analytical & Strategic Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Senior Administrator / Executive",
+                        "Legal Advisor / Consultant",
+                        "Government Official"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "Law & Legal Studies",
+                        "Public Administration & Management",
+                        "विश्लेषणात्मक और रणनीतिक अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "वरिष्ठ प्रशासक / कार्यकारी",
+                        "कानूनी सलाहकार / सलाहकार",
+                        "सरकारी अधिकारी"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Public Administration & Governance",
+                        "Law & Medicine",
+                        "Teaching & Education",
+                        "Journalism & Mass Communication"
+                    ],
+                    "potentialProfessions": [
+                        "Civil Servant / Administrative Officer",
+                        "Teacher / Professor",
+                        "Lawyer / Doctor",
+                        "Journalist / PR Specialist"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "लोक प्रशासन और शासन",
+                        "कानून और चिकित्सा",
+                        "शिक्षण और शिक्षा",
+                        "पत्रकारिता और जनसंचार"
+                    ],
+                    "potentialProfessions": [
+                        "सिविल सेवक / प्रशासनिक अधिकारी",
+                        "शिक्षक / प्रोफेसर",
+                        "वकील / डॉक्टर",
+                        "पत्रकार / जनसंपर्क विशेषज्ञ"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Shravana,श्रवण",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Engineering & Technology",
+                        "Commerce & International Trade",
+                        "Arts, Music & Fine Arts",
+                        "Chemical / Petroleum Engineering"
+                    ],
+                    "potentialProfessions": [
+                        "Engineer / Technologist",
+                        "Import-Export Businessman",
+                        "Oil / Petroleum Industry Professional",
+                        "Musician / Artist"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "इंजीनियरिंग और प्रौद्योगिकी",
+                        "वाणिज्य और अंतर्राष्ट्रीय व्यापार",
+                        "कला, संगीत और ललित कला",
+                        "रासायनिक / पेट्रोलियम इंजीनियरिंग"
+                    ],
+                    "potentialProfessions": [
+                        "इंजीनियर / टेक्नोलॉजिस्ट",
+                        "आयात-निर्यात व्यवसायी",
+                        "तेल / पेट्रोलियम उद्योग पेशेवर",
+                        "संगीतकार / कलाकार"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Performing Arts (Dance & Music)",
+                        "Agriculture & Horticulture",
+                        "Handicrafts & Home Economics",
+                        "Secretarial & Customer Service"
+                    ],
+                    "potentialProfessions": [
+                        "Dancer / Musician / Artist",
+                        "Government / Clerical Employee",
+                        "Customer Service / Receptionist",
+                        "Handicraft / Agricultural Specialist"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "Performing Arts (Dance & Music)",
+                        "कृषि और बागवानी",
+                        "हस्तशिल्प और गृह विज्ञान",
+                        "सचिवालय और ग्राहक सेवा"
+                    ],
+                    "potentialProfessions": [
+                        "नर्तक / संगीतकार / कलाकार",
+                        "सरकारी / लिपिकीय कर्मचारी",
+                        "ग्राहक सेवा / रिसेप्शनिस्ट",
+                        "हस्तशिल्प / कृषि विशेषज्ञ"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Dhanishta,धनिष्ठा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Science & Engineering",
+                        "Mechanical & Electrical Trades",
+                        "Law & Surgery",
+                        "Defense & Intelligence Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Engineer / Technical Specialist",
+                        "Surgeon / Medical Professional",
+                        "Defense / Police / Intelligence Officer",
+                        "Industrialist / Entrepreneur"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "विज्ञान और इंजीनियरिंग",
+                        "मैकेनिकल और इलेक्ट्रिकल ट्रेड",
+                        "कानून और सर्जरी",
+                        "रक्षा और खुफिया अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "इंजीनियर / तकनीकी विशेषज्ञ",
+                        "सर्जन / चिकित्सा पेशेवर",
+                        "रक्षा / पुलिस / खुफिया अधिकारी",
+                        "उद्योगपति / उद्यमी"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Education & Academic Research",
+                        "Science & Technology",
+                        "Arts & Literature"
+                    ],
+                    "potentialProfessions": [
+                        "Teacher / Professor / Lecturer",
+                        "Researcher / Scientist",
+                        "Educationist / Consultant"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "शिक्षा और शैक्षणिक शोध",
+                        "विज्ञान और प्रौद्योगिकी",
+                        "कला और साहित्य"
+                    ],
+                    "potentialProfessions": [
+                        "शिक्षक / प्रोफेसर / व्याख्याता",
+                        "शोधकर्ता / वैज्ञानिक",
+                        "शिक्षाविद् / सलाहकार"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Shatabhisha,शतभिषा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Psychology & Strategic Planning",
+                        "Scientific Research & Innovation",
+                        "Medical & Healthcare Studies",
+                        "Financial Planning & Analysis"
+                    ],
+                    "potentialProfessions": [
+                        "Researcher / Scientist",
+                        "Medical Doctor / Specialist",
+                        "Psychologist / Strategist",
+                        "Financial Planner / Analyst"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "मनोविज्ञान और रणनीतिक योजना",
+                        "वैज्ञानिक अनुसंधान और नवाचार",
+                        "चिकित्सा और स्वास्थ्य सेवा अध्ययन",
+                        "वित्तीय योजना और विश्लेषण"
+                    ],
+                    "potentialProfessions": [
+                        "शोधकर्ता / वैज्ञानिक",
+                        "चिकित्सा डॉक्टर / विशेषज्ञ",
+                        "मनोवैज्ञानिक / रणनीतिकार",
+                        "वित्तीय योजनाकार / विश्लेषक"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Science & Geography",
+                        "Medical & Nursing Studies",
+                        "Media, Advertising & Communications",
+                        "Aviation & Technical Sciences"
+                    ],
+                    "potentialProfessions": [
+                        "Medical / Healthcare Professional",
+                        "Media / Advertising Specialist",
+                        "Aviation / Air Services Professional",
+                        "Researcher / Educator"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "विज्ञान और भूगोल",
+                        "चिकित्सा और नर्सिंग अध्ययन",
+                        "मीडिया, विज्ञापन और संचार",
+                        "विमानन और तकनीकी विज्ञान"
+                    ],
+                    "potentialProfessions": [
+                        "चिकित्सा / स्वास्थ्य सेवा पेशेवर",
+                        "मीडिया / विज्ञापन विशेषज्ञ",
+                        "विमानन / वायु सेवा पेशेवर",
+                        "शोधकर्ता / शिक्षक"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Purva_Bhadrapada,पूर्वभाद्रपदा",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Banking & Finance",
+                        "Public Administration & Governance",
+                        "Law, Defense & Aviation",
+                        "Journalism & Literature"
+                    ],
+                    "potentialProfessions": [
+                        "Government Administrator / Official",
+                        "Banker / Financial Officer",
+                        "Defense / Customs / Aviation Professional",
+                        "Writer / Journalist / Actor"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "बैंकिंग और वित्त",
+                        "लोक प्रशासन और शासन",
+                        "कानून, रक्षा और विमानन",
+                        "पत्रकारिता और साहित्य"
+                    ],
+                    "potentialProfessions": [
+                        "सरकारी प्रशासक / अधिकारी",
+                        "बैंकर / वित्तीय अधिकारी",
+                        "रक्षा / सीमा शुल्क / विमानन पेशेवर",
+                        "लेखक / पत्रकार / अभिनेता"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Science & Technology",
+                        "Medicine & Engineering",
+                        "Education & Management",
+                        "Religious & Social Studies"
+                    ],
+                    "potentialProfessions": [
+                        "Scientist / Engineer / Doctor",
+                        "Teacher / Educational Administrator",
+                        "Social Worker / Author",
+                        "Spiritual / Institutional Organizer"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "विज्ञान और प्रौद्योगिकी",
+                        "चिकित्सा और इंजीनियरिंग",
+                        "शिक्षा और प्रबंधन",
+                        "धार्मिक और सामाजिक अध्ययन"
+                    ],
+                    "potentialProfessions": [
+                        "Scientist / Engineer / Doctor",
+                        "शिक्षक / शैक्षिक प्रशासक",
+                        "समाज सेवक / लेखक",
+                        "आध्यात्मिक / संस्थागत आयोजक"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Uttara_Bhadrapada,उत्तराभाद्रपद",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "Literature, Poetry & Philosophy",
+                        "Psychology & Astrology",
+                        "Media, Communications & Editing",
+                        "Research & Education"
+                    ],
+                    "potentialProfessions": [
+                        "Writer / Editor / Author",
+                        "Astrologer / Philosopher",
+                        "Media / Program Manager",
+                        "Researcher / Educator"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "साहित्य, कविता और दर्शन",
+                        "मनोविज्ञान और ज्योतिष",
+                        "मीडिया, संचार और संपादन",
+                        "अनुसंधान और शिक्षा"
+                    ],
+                    "potentialProfessions": [
+                        "लेखक / संपादक / लेखक",
+                        "ज्योतिषी / दार्शनिक",
+                        "मीडिया / कार्यक्रम प्रबंधक",
+                        "शोधकर्ता / शिक्षक"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Education & Teaching",
+                        "Medical & Healthcare Studies",
+                        "Law & Judicial Services",
+                        "Journalism & Media Communications"
+                    ],
+                    "potentialProfessions": [
+                        "Teacher / Professor",
+                        "Doctor / Medical Specialist",
+                        "Lawyer / Judge / Judicial Officer",
+                        "Journalist / Media Executive"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "शिक्षा और शिक्षण",
+                        "चिकित्सा और स्वास्थ्य सेवा अध्ययन",
+                        "कानून और न्यायिक सेवाएं",
+                        "Journalism & Media Communications"
+                    ],
+                    "potentialProfessions": [
+                        "शिक्षक / प्रोफेसर",
+                        "डॉक्टर / चिकित्सा विशेषज्ञ",
+                        "वकील / न्यायाधीश / न्यायिक अधिकारी",
+                        "पत्रकार / मीडिया कार्यकारी"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "name": "Revati,रेवती",
+        "careerAndStudies": {
+            "male": {
+                "english": {
+                    "recommendedStudies": [
+                        "History, Archaeology & Research",
+                        "Astrology & Astronomy",
+                        "Medical Sciences",
+                        "Literature & Poetry"
+                    ],
+                    "potentialProfessions": [
+                        "Researcher / Historian",
+                        "Astrologer / Astronomer",
+                        "Medical Practitioner / Doctor",
+                        "Government / Public Service Professional (Foreign/Remote)"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "इतिहास, पुरातत्व और अनुसंधान",
+                        "ज्योतिष और खगोल विज्ञान",
+                        "चिकित्सा विज्ञान",
+                        "साहित्य और कविता"
+                    ],
+                    "potentialProfessions": [
+                        "शोधकर्ता / इतिहासकार",
+                        "ज्योतिषी / खगोलविद",
+                        "चिकित्सक / डॉक्टर",
+                        "सरकारी / लोक सेवा पेशेवर (विदेशी/दूरस्थ)"
+                    ]
+                }
+            },
+            "female": {
+                "english": {
+                    "recommendedStudies": [
+                        "Arts, Literature & Mathematics",
+                        "Corporate Management & Company Secretaryship",
+                        "Administration & Diplomacy",
+                        "Communications & Office Management"
+                    ],
+                    "potentialProfessions": [
+                        "Corporate Manager / Company Secretary",
+                        "Administrator / Diplomat",
+                        "Teacher / Academic",
+                        "Communications / Customer Service Executive"
+                    ]
+                },
+                "hindi": {
+                    "recommendedStudies": [
+                        "कला, साहित्य और गणित",
+                        "कॉर्पोरेट प्रबंधन और कंपनी सेक्रेटरीशिप",
+                        "प्रशासन और कूटनीति",
+                        "संचार और कार्यालय प्रबंधन"
+                    ],
+                    "potentialProfessions": [
+                        "कॉर्पोरेट प्रबंधक / कंपनी सेक्रेटरी",
+                        "प्रशासक / राजनयिक",
+                        "शिक्षक / अकादमिक",
+                        "संचार / ग्राहक सेवा कार्यकारी"
+                    ]
+                }
+            }
+        }
+    }
+]
